@@ -1,0 +1,320 @@
+[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: Initial D First Stage 26/23
+Original Script: Todd Perkins (Central Anime)
+Original Translation: Hiroaki Fukuda (Central Anime)
+Original Editing: Hiroaki Fukuda, Todd Perkins, Barbara, Dave, Mouse (Central Anime)
+Original Timing: Todd Perkins (Central Anime)
+Synch Point: Side 1 0m00s
+Script Updated By: sd_tenchi (fansubfiles anime), re-timed, re-edited ASS version by FXM
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,26,&H40F2F2F2,&H64109090,&H40000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,0
+Style: MainStyle,Arial,26,&H40F2F2F2,&H64109090,&H40000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,0
+Style: Song,Arial,26,&H0090A010,&H64109090,&H64000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,30,30,30,0
+Style: SongWings,Arial,20,&H4090A010,&H64109090,&H64000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,8,30,30,30,0
+Style: Credits,Arial,26,&H50D0D0D0,&H64109090,&H64000000,&H64000000,-1,0,0,0,100,90,0,0,1,2,0,2,30,30,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:05.02,0:00:07.49,MainStyle,,0000,0000,0000,,{\fad(40,0)}{\c&HA0A0A0&}This story is fiction. The names of people,\Nplaces and groups are imaginary.\NObey traffic rules and drive safely.
+Dialogue: 1,0:00:14.27,0:00:16.50,MainStyle,,0100,0000,0310,,{\fad(200,200)}{\bord0}INITIAL
+Dialogue: 0,0:00:34.68,0:00:38.35,Song,,0000,0000,0000,,{Kogoeta machi ni giniro shita kemuri}Silver smoke in a freezing city...
+Dialogue: 0,0:00:38.35,0:00:42.05,Song,,0000,0000,0000,,{misugita yume no daisyou}...that's the cost of having an unachievable dream.
+Dialogue: 0,0:00:42.05,0:00:45.78,Song,,0000,0000,0000,,{Kogoeta karada furikirenai omoi}A frozen body and unforgettable desire...
+Dialogue: 0,0:00:45.78,0:00:49.45,Song,,0000,0000,0000,,{accel funde gomakasu}You deceive yourself by stepping\Non the accelerator.
+Dialogue: 0,0:00:49.45,0:00:56.81,Song,,0000,0000,0000,,{Yoru ni kowareta mama shisen tsuyoku togarasete}Although depressed in the night,\Nyour eyes are kept sharply open.
+Dialogue: 0,0:00:56.81,0:01:04.20,Song,,0000,0000,0000,,{Dareno kimagure kara sekai sae mo owarisoude}You feel like someone's careless\Nact could end the world.
+Dialogue: 0,0:01:04.20,0:01:06.15,Song,,0000,0000,0000,,"Break in 2 the nite" It's that time.
+Dialogue: 0,0:01:06.15,0:01:09.73,Song,,0000,0000,0000,,{Obieta me wo shite lost in the night}Lost in the night with frightened eyes...
+Dialogue: 0,0:01:09.73,0:01:13.39,Song,,0000,0000,0000,,{ochiteku yume ni dakareru}Embraced by a ruined dream.
+Dialogue: 0,0:01:13.39,0:01:17.15,Song,,0000,0000,0000,,{Kodoku ga kowakute missin' my heart}Scared of loneliness, I'm missing you in my heart.
+Dialogue: 0,0:01:17.15,0:01:20.86,Song,,0000,0000,0000,,{jibun sae mo kizu tsukete}I almost hurt myself.
+Dialogue: 0,0:01:20.86,0:01:24.54,Song,,0000,0000,0000,,{Taoreru kurai ni love me so much}Love me so much and knock me out.
+Dialogue: 0,0:01:24.54,0:01:28.23,Song,,0000,0000,0000,,{subete wo suttee anata wo}If only I can give up everything...
+Dialogue: 0,0:01:28.23,0:01:31.89,Song,,0000,0000,0000,,{Ai suru koto sae dekitara}...and love you...
+Dialogue: 0,0:01:31.89,0:01:36.13,Song,,0000,0000,0000,,{kitto sunao ni naresou}...I can be my true self.
+Dialogue: 0,0:01:41.99,0:01:46.14,MainStyle,,0000,0000,0000,,Hey, Takumi, you don't\Nlook very nervous.
+Dialogue: 0,0:01:46.14,0:01:49.50,MainStyle,,0000,0000,0000,,Are you alright with\Nthis rain battle?
+Dialogue: 0,0:01:49.50,0:01:50.98,MainStyle,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:01:50.98,0:01:54.88,MainStyle,,0000,0000,0000,,I can't go as fast in the rain, so I'll\Njust drive like I normally do.
+Dialogue: 0,0:01:54.88,0:01:59.39,MainStyle,,0000,0000,0000,,I don't know if I can drive fast or not.
+Dialogue: 0,0:01:59.39,0:02:01.72,MainStyle,,0000,0000,0000,,I'll try not to push myself too hard.
+Dialogue: 0,0:02:01.72,0:02:04.76,MainStyle,,0000,0000,0000,,If I damage the car, Dad'll hit me.
+Dialogue: 0,0:02:08.90,0:02:10.90,MainStyle,,0000,0000,0000,,I'll start the countdown!
+Dialogue: 0,0:02:10.90,0:02:12.15,MainStyle,,0000,0000,0000,,Five...
+Dialogue: 0,0:02:12.15,0:02:13.20,MainStyle,,0000,0000,0000,,...four...
+Dialogue: 0,0:02:13.20,0:02:14.14,MainStyle,,0000,0000,0000,,...three...
+Dialogue: 0,0:02:14.14,0:02:15.26,MainStyle,,0000,0000,0000,,...two...
+Dialogue: 0,0:02:15.26,0:02:16.24,MainStyle,,0000,0000,0000,,...one.
+Dialogue: 0,0:02:16.24,0:02:17.08,MainStyle,,0000,0000,0000,,Go!
+Dialogue: 1,0:02:18.13,0:02:24.50,MainStyle,,0040,0000,0365,,{\fade(255,0,248,0,1000,5130,6110)}{\2a&HFF&}Downhill Rain Battle
+Dialogue: 0,0:02:28.96,0:02:31.47,MainStyle,,0000,0000,0000,,The S14 took the front at the start.
+Dialogue: 0,0:02:31.47,0:02:34.39,MainStyle,,0000,0000,0000,,Although it's a non-turbo,\Nit's got a 2.0 liter engine. {The AE86 only has 1.6 L}
+Dialogue: 0,0:02:34.39,0:02:37.01,MainStyle,,0000,0000,0000,,It's not only because of engine size...
+Dialogue: 0,0:02:37.01,0:02:40.12,MainStyle,,0000,0000,0000,,...but he engaged the clutch on\Nthe slippery road very well.
+Dialogue: 0,0:02:40.12,0:02:43.24,MainStyle,,0000,0000,0000,,He deserves what he said about\Ndriving in the rain.
+Dialogue: 0,0:02:43.24,0:02:47.09,MainStyle,,0000,0000,0000,,No, the Eight-Six was holding\Nback at the start.
+Dialogue: 0,0:02:47.09,0:02:50.79,MainStyle,,0000,0000,0000,,It's like he could catch up anytime,\Nonce they get moving.
+Dialogue: 0,0:02:53.23,0:02:55.20,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}He took the front easily.
+Dialogue: 0,0:02:55.48,0:02:56.57,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}This is bad.
+Dialogue: 0,0:02:56.57,0:03:00.50,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}He'll pull away by using\Nsuperior engine power!
+Dialogue: 0,0:03:13.05,0:03:14.78,MainStyle,,0000,0000,0000,,The gap is wide...
+Dialogue: 0,0:03:14.78,0:03:16.97,MainStyle,,0000,0000,0000,,I guess uphill is too tough for the Eight-Six.
+Dialogue: 0,0:03:16.97,0:03:21.39,MainStyle,,0000,0000,0000,,But it'll be downhill corners continuously\Nfrom here to the base.
+Dialogue: 0,0:03:21.39,0:03:25.60,MainStyle,,0000,0000,0000,,Once they're on the downhill, the unbeatable\Ndownhill driver's super technique will shine. {Ishimon Entrance}
+Dialogue: 1,0:03:21.39,0:03:23.61,MainStyle,,0000,0250,0400,,{\fad(0,500)}{\c&HA0A0A0&}Ishimon Entrance
+Dialogue: 0,0:03:25.60,0:03:28.05,MainStyle,,0000,0000,0000,,I don't think he'll remain behind...
+Dialogue: 0,0:03:47.01,0:03:48.25,MainStyle,,0000,0000,0000,,Hello?
+Dialogue: 0,0:03:48.25,0:03:50.20,MainStyle,,0000,0000,0000,,Oh, Brother?
+Dialogue: 0,0:03:51.31,0:03:54.58,MainStyle,,0000,0000,0000,,The Eight-Six and Kenta in a rain battle?
+Dialogue: 0,0:03:54.58,0:03:56.40,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Yeah.
+Dialogue: 0,0:03:56.40,0:04:00.96,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}That Kenta is so confident\Nagainst the Eight-Six...
+Dialogue: 0,0:04:00.96,0:04:03.90,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}...but rain isn't that easy, Brother.
+Dialogue: 0,0:04:03.90,0:04:05.14,MainStyle,,0000,0000,0000,,You're right.
+Dialogue: 0,0:04:05.14,0:04:09.85,MainStyle,,0000,0000,0000,,When playing at drift at slower\Nspeeds, he's alright...
+Dialogue: 0,0:04:09.85,0:04:12.25,MainStyle,,0000,0000,0000,,...but it's totally different in a battle.
+Dialogue: 0,0:04:12.48,0:04:17.19,MainStyle,,0000,0000,0000,,Yeah, it'll be extremely difficult to open\Nthe throttle to the limit in the rain.
+Dialogue: 0,0:04:17.19,0:04:20.82,MainStyle,,0000,0000,0000,,If it was dry, the grip of\Nthe tires would help...
+Dialogue: 0,0:04:20.82,0:04:23.87,MainStyle,,0000,0000,0000,,...but in the rain, a car's behavior\Nwill be very severe.
+Dialogue: 0,0:04:23.87,0:04:28.56,MainStyle,,0000,0000,0000,,They don't run as you like unless you\Nuse the weight shift effectively.
+Dialogue: 0,0:04:28.56,0:04:31.83,MainStyle,,0000,0000,0000,,A small mistake will\Nresult in big trouble.{big bang/crash}
+Dialogue: 0,0:04:31.83,0:04:38.72,MainStyle,,0000,0000,0000,,Whether those two know the true\Nterror of driving in the rain yet...
+Dialogue: 0,0:04:38.72,0:04:40.13,MainStyle,,0000,0000,0000,,It'll be interesting.
+Dialogue: 0,0:04:41.45,0:04:42.75,MainStyle,,0000,0000,0000,,"Those two?"
+Dialogue: 0,0:04:43.22,0:04:45.18,MainStyle,,0000,0000,0000,,You liar.
+Dialogue: 0,0:04:45.18,0:04:49.70,MainStyle,,0000,0000,0000,,You're only really interested\Nin HIM, aren't you?
+Dialogue: 0,0:05:14.21,0:05:15.78,MainStyle,,0000,0000,0000,,H...help me!
+Dialogue: 0,0:05:15.78,0:05:18.84,MainStyle,,0000,0000,0000,,I don't want to die yet!
+Dialogue: 0,0:05:24.35,0:05:27.50,MainStyle,,0000,0000,0000,,Damn, it's getting heavier.
+Dialogue: 0,0:05:28.13,0:05:30.31,MainStyle,,0000,0000,0000,,His opponent is an Akagi Road Racer.
+Dialogue: 0,0:05:30.31,0:05:34.78,MainStyle,,0000,0000,0000,,This isn't their home course,\Nso the conditions are equal.
+Dialogue: 0,0:05:34.78,0:05:36.48,MainStyle,,0000,0000,0000,,The problem is this rain.
+Dialogue: 0,0:05:36.48,0:05:40.20,MainStyle,,0000,0000,0000,,I wonder if he drives well in the rain.
+Dialogue: 0,0:05:48.27,0:05:50.46,MainStyle,,0000,0000,0000,,In the rain...
+Dialogue: 0,0:05:50.46,0:05:54.21,MainStyle,,0000,0000,0000,,He delivers tofu everyday, doesn't he?
+Dialogue: 0,0:05:54.21,0:05:56.21,MainStyle,,0000,0000,0000,,Therefore, many times in the rain...
+Dialogue: 0,0:05:56.21,0:05:58.79,MainStyle,,0000,0000,0000,,That's right!  He must!
+Dialogue: 0,0:05:58.79,0:06:04.53,MainStyle,,0000,0000,0000,,If so, his driving technique...\Nwill work in the rain.
+Dialogue: 0,0:06:11.48,0:06:16.46,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I won't let you gain on me,\NI'll keep pulling away.
+Dialogue: 0,0:06:16.46,0:06:20.38,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}My Q's can outrun turbos\Nwhen it rains.
+Dialogue: 0,0:06:25.95,0:06:27.88,MainStyle,,0000,0000,0000,,He let the rear slide!
+Dialogue: 0,0:06:36.62,0:06:39.17,MainStyle,,0000,0000,0000,,That S14 is pretty good in the rain!
+Dialogue: 0,0:06:39.17,0:06:42.55,MainStyle,,0000,0000,0000,,FRs have a very difficult\Ntime in the rain.
+Dialogue: 0,0:06:42.55,0:06:46.40,MainStyle,,0000,0000,0000,,Yeah, even if you step on the accelerator,\Nit simply changes the heading of the car.
+Dialogue: 0,0:06:56.81,0:06:58.46,MainStyle,,0000,0000,0000,,Here comes the Eight-Six!
+Dialogue: 0,0:07:06.06,0:07:07.58,MainStyle,,0000,0000,0000,,I don't believe it!
+Dialogue: 0,0:07:07.58,0:07:09.36,MainStyle,,0000,0000,0000,,How can he drift like that in this rain?
+Dialogue: 0,0:07:19.21,0:07:21.46,MainStyle,,0000,0000,0000,,What the hell was that...?
+Dialogue: 0,0:07:21.46,0:07:23.75,MainStyle,,0000,0000,0000,,His entry gave me a chill.
+Dialogue: 0,0:07:23.75,0:07:25.61,MainStyle,,0000,0000,0000,,I've got goose bumps.
+Dialogue: 0,0:07:30.46,0:07:35.54,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I...is this the driving of a man who was lovesick\Nover a woman just a while ago?
+Dialogue: 0,0:07:37.79,0:07:44.53,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}He said he wouldn't push hard,\Nso is this normal for him?!
+Dialogue: 0,0:07:45.10,0:07:50.30,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I can't see anything because of the rain\Nand darkness. How can he drive?
+Dialogue: 0,0:07:50.30,0:07:54.85,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}It's too dark, and I can't\Nsee where the road is!
+Dialogue: 0,0:08:01.46,0:08:06.43,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Don't make that sound!\NThis speed is insane!
+Dialogue: 0,0:08:21.27,0:08:24.38,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}H...he's not human.
+Dialogue: 0,0:08:24.38,0:08:25.65,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}He's a monster!
+Dialogue: 0,0:08:48.50,0:08:51.12,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I'm in the groove.\NI'm in my rhythm!
+Dialogue: 0,0:08:51.12,0:08:53.36,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I'm in really good condition today!
+Dialogue: 0,0:08:53.36,0:08:57.09,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}The legend of Akina's unbeatable\NEight-Six ends today.
+Dialogue: 0,0:08:57.09,0:09:00.57,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Not Keisuke or Ryosuke...
+Dialogue: 0,0:09:00.57,0:09:03.02,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}...but I'll defeat the Eight-Six!
+Dialogue: 0,0:09:06.65,0:09:07.63,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}What the...?!
+Dialogue: 0,0:09:15.24,0:09:17.81,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}The Eight-Six is right behind me...?!
+Dialogue: 0,0:09:18.10,0:09:19.78,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}When?
+Dialogue: 0,0:09:19.78,0:09:21.49,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}It can't be.
+Dialogue: 0,0:09:21.49,0:09:23.64,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}What happened?
+Dialogue: 0,0:09:23.64,0:09:29.28,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}We've only cleared a few corners\Nsince the downhill began.
+Dialogue: 0,0:09:29.28,0:09:31.14,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}It's impossible.
+Dialogue: 0,0:09:31.72,0:09:38.24,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}How did I get caught so easily\Non the downhill in the rain...?
+Dialogue: 0,0:09:41.76,0:09:42.61,MainStyle,,0000,0000,0000,,No...
+Dialogue: 0,0:09:42.61,0:09:45.08,MainStyle,,0000,0000,0000,,...this doesn't mean I've lost!
+Dialogue: 0,0:10:17.41,0:10:19.41,MainStyle,,0000,0000,0000,,They're less than\Nfive centimeters apart!
+Dialogue: 0,0:10:40.11,0:10:41.88,MainStyle,,0000,0000,0000,,Look!  The Eight-Six's\Nabout to overtake him!
+Dialogue: 0,0:11:02.07,0:11:03.99,MainStyle,,0000,0000,0000,,The Eight-Six's about to overtake him!
+Dialogue: 0,0:11:22.96,0:11:24.96,MainStyle,,0000,0000,0000,,He passed him so easily...
+Dialogue: 0,0:11:24.96,0:11:26.59,MainStyle,,0000,0000,0000,,It's... unbelievable.
+Dialogue: 0,0:11:26.59,0:11:29.47,MainStyle,,0000,0000,0000,,It was worth waiting, even though\Nwe got soaked.
+Dialogue: 0,0:11:29.47,0:11:30.32,MainStyle,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:33.35,0:11:35.10,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I can't keep up.
+Dialogue: 0,0:11:35.10,0:11:38.20,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}The gap widens every time\Nwe clear a corner!
+Dialogue: 0,0:11:43.35,0:11:45.77,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I can't enter the corners\Nat the same speed.
+Dialogue: 0,0:11:45.77,0:11:49.44,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}What's the difference\Nbetween me and him?
+Dialogue: 0,0:11:49.44,0:11:52.13,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Isn't the rain supposed\Nto be my ally?
+Dialogue: 0,0:12:07.05,0:12:09.25,MainStyle,,0000,0000,0000,,Okay, I got it.
+Dialogue: 0,0:12:16.22,0:12:21.74,MainStyle,,0000,0000,0000,,A report from the midpoint says that\Nthe Eight-Six has passed the S14.
+Dialogue: 0,0:12:22.23,0:12:23.60,MainStyle,,0000,0000,0000,,I see.
+Dialogue: 0,0:12:23.60,0:12:26.36,MainStyle,,0000,0000,0000,,As I thought, Kenta was\Nno match for him.
+Dialogue: 0,0:12:26.36,0:12:28.96,MainStyle,,0000,0000,0000,,Well, he did pretty good.
+Dialogue: 0,0:12:30.24,0:12:33.67,MainStyle,,0000,0000,0000,,Now we know that the Eight-Six\Nis fast, even in the rain.
+Dialogue: 0,0:12:35.02,0:12:37.91,MainStyle,,0000,0000,0000,,We knew that before the race.
+Dialogue: 0,0:12:37.91,0:12:41.60,MainStyle,,0000,0000,0000,,Weather isn't a factor in\Ndefeating the Eight-Six.
+Dialogue: 0,0:12:45.58,0:12:48.89,MainStyle,,0000,0000,0000,,So it's Takahashi Ryosuke's turn.
+Dialogue: 0,0:13:18.58,0:13:20.50,MainStyle,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:13:19.58,0:13:20.50,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Welcome!
+Dialogue: 0,0:13:21.75,0:13:23.05,MainStyle,,0000,0000,0000,,Welcome.
+Dialogue: 0,0:13:24.22,0:13:29.42,MainStyle,,0000,0000,0000,,So it's proven that\NTakumi's fast in the rain.
+Dialogue: 0,0:13:29.42,0:13:33.10,MainStyle,,0000,0000,0000,,He's getting more like a Road Racer.
+Dialogue: 0,0:13:33.10,0:13:36.96,MainStyle,,0000,0000,0000,,He accepted the challenge\Nfrom the S14 himself.
+Dialogue: 0,0:13:36.96,0:13:39.92,MainStyle,,0000,0000,0000,,His lovesickness is cured.
+Dialogue: 0,0:13:39.92,0:13:43.81,MainStyle,,0000,0000,0000,,I guess our plan worked.
+Dialogue: 0,0:13:46.25,0:13:51.15,MainStyle,,0000,0000,0000,,Hey, Itsuki, you were damn lucky...
+Dialogue: 0,0:13:51.15,0:13:55.20,MainStyle,,0000,0000,0000,,...getting to sit in the Eight-Six's passenger\Nseat during the rain race.
+Dialogue: 0,0:13:55.20,0:14:00.20,MainStyle,,0000,0000,0000,,It was reeeally scary!\NI almost died!
+Dialogue: 0,0:14:00.20,0:14:04.21,MainStyle,,0000,0000,0000,,I wasn't sitting in the passenger seat,\Nthough.  I was in the rear seat.
+Dialogue: 0,0:14:05.50,0:14:06.93,MainStyle,,0000,0000,0000,,The rear seat?
+Dialogue: 0,0:14:08.50,0:14:09.64,MainStyle,,0000,0000,0000,,Why?
+Dialogue: 0,0:14:09.64,0:14:10.51,MainStyle,,0000,0000,0000,,Dunno.
+Dialogue: 0,0:14:10.51,0:14:15.20,MainStyle,,0000,0000,0000,,Takumi said he didn't have\Nany particular reason.
+Dialogue: 0,0:14:17.01,0:14:18.80,MainStyle,,0000,0000,0000,,Oh, I got it.
+Dialogue: 0,0:14:18.80,0:14:21.72,MainStyle,,0000,0000,0000,,There's a reason, and\NI think I know why.
+Dialogue: 0,0:14:21.72,0:14:23.06,MainStyle,,0000,0000,0000,,Really, Kenji?
+Dialogue: 0,0:14:23.06,0:14:24.66,MainStyle,,0000,0000,0000,,What is it?
+Dialogue: 0,0:14:25.38,0:14:26.58,MainStyle,,0000,0000,0000,,It's...
+Dialogue: 0,0:14:28.42,0:14:29.94,MainStyle,,0000,0000,0000,,It's...
+Dialogue: 0,0:14:29.94,0:14:31.36,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}It's...?!{\r}\NIt's...?!
+Dialogue: 0,0:14:31.36,0:14:33.06,MainStyle,,0000,0000,0000,,Because he gets distracted.
+Dialogue: 0,0:14:36.19,0:14:37.89,MainStyle,,0000,0000,0000,,Don't you think so?
+Dialogue: 0,0:14:37.89,0:14:41.50,MainStyle,,0000,0000,0000,,What if someone as noisy as Itsuki\Nwas in the passenger seat?
+Dialogue: 0,0:14:42.12,0:14:43.69,MainStyle,,0000,0000,0000,,That's true.
+Dialogue: 0,0:14:43.69,0:14:45.71,MainStyle,,0000,0000,0000,,Oh, I see!
+Dialogue: 0,0:14:48.25,0:14:50.16,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Wrong answer!
+Dialogue: 0,0:14:50.16,0:14:52.05,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}They're so carefree...
+Dialogue: 0,0:14:52.05,0:14:53.99,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}The reason he put him in the rear\Nseat was as an instant setting...
+Dialogue: 0,0:14:53.99,0:14:58.95,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}...to increase the weight on the\Nrear axle as much as possible.
+Dialogue: 0,0:14:58.95,0:15:02.73,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Takumi probably knew it by\Nfeeling instead of thinking.
+Dialogue: 0,0:15:03.61,0:15:05.12,MainStyle,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:06.06,0:15:09.81,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I wonder how much more he'll grow...
+Dialogue: 0,0:15:09.81,0:15:11.33,MainStyle,,0000,0000,0000,,Takumi!
+Dialogue: 0,0:15:18.56,0:15:20.05,MainStyle,,0000,0000,0000,,Who's she?
+Dialogue: 0,0:15:20.05,0:15:21.16,MainStyle,,0000,0000,0000,,Could she be...?
+Dialogue: 0,0:15:21.16,0:15:22.82,MainStyle,,0000,0000,0000,,Takumi's girlfriend.
+Dialogue: 0,0:15:22.82,0:15:24.30,MainStyle,,0000,0000,0000,,I thought so...!
+Dialogue: 0,0:15:22.82,0:15:24.30,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Say what?
+Dialogue: 0,0:15:33.83,0:15:36.26,MainStyle,,0000,0000,0000,,I didn't have any reason for coming by...
+Dialogue: 0,0:15:36.26,0:15:38.92,MainStyle,,0000,0000,0000,,...but I was wandering around\Nand ended up here.
+Dialogue: 0,0:15:38.92,0:15:40.42,MainStyle,,0000,0000,0000,,I see.
+Dialogue: 0,0:15:40.42,0:15:41.65,MainStyle,,0000,0000,0000,,Am I a bother?
+Dialogue: 0,0:15:41.65,0:15:43.15,MainStyle,,0000,0000,0000,,No.
+Dialogue: 0,0:15:51.50,0:15:53.31,MainStyle,,0000,0000,0000,,H...he looks confused.
+Dialogue: 0,0:15:53.31,0:15:54.88,MainStyle,,0000,0000,0000,,This is bad.
+Dialogue: 0,0:16:01.91,0:16:05.55,MainStyle,,0000,0000,0000,,I don't want to disturb you at work,\Nso I'll go home.
+Dialogue: 0,0:16:31.39,0:16:36.44,MainStyle,,0000,0000,0000,,Oh no!  He finally got well, but\Nhe might get lovesick again!
+Dialogue: 0,0:16:36.44,0:16:37.86,MainStyle,,0000,0000,0000,,Do something, Itsuki!
+Dialogue: 0,0:16:37.86,0:16:42.10,MainStyle,,0000,0000,0000,,Even if you say that, races just don't\Nhappen when you want them!
+Dialogue: 0,0:16:42.10,0:16:45.81,MainStyle,,0000,0000,0000,,Anyway, he has the race against\NTakahashi Ryosuke next week...
+Dialogue: 0,0:16:45.81,0:16:47.84,MainStyle,,0000,0000,0000,,...so he has no time for women!
+Dialogue: 0,0:16:47.84,0:16:49.06,MainStyle,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:49.74,0:16:51.46,MainStyle,,0000,0000,0000,,Hey, Takumi!
+Dialogue: 0,0:16:51.46,0:16:54.39,MainStyle,,0000,0000,0000,,Let's go driving on Akina tonight!
+Dialogue: 0,0:17:08.57,0:17:11.20,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}It looks dirty.
+Dialogue: 0,0:17:11.20,0:17:13.98,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Is it because of the battle last night?
+Dialogue: 1,0:17:41.16,0:17:46.95,SongWings,,0000,0000,0000,,{\fad(300,200)}kisetsu hazure no asa ni kisha ni notte hitori kita e\N{\fnTahoma\fs18\i0\c&H808080&}I head north on a morning train at the season's end.
+Dialogue: 1,0:17:46.95,0:17:53.08,SongWings,,0000,0000,0000,,{\fad(300,200)}odayaka na kaze ga fuki tori ga sora ni kumo wo egaku\N{\fnTahoma\fs18\i0\c&H808080&}A calm wind blows, and a bird leaves a trail in the sky.
+Dialogue: 1,0:17:53.08,0:17:59.00,SongWings,,0000,0000,0000,,{\fad(300,200)}mioboe no aru keshiki fui ni toori kakaru basho de\N{\fnTahoma\fs18\i0\c&H808080&}I happen to see a familiar sight while driving by.
+Dialogue: 1,0:17:59.00,0:18:05.16,SongWings,,0000,0000,0000,,{\fad(300,200)}omoigakezu mitsuketa mukashi sunda machi wo\N{\fnTahoma\fs18\i0\c&H808080&}I unexpectedly find the town where I used to live.
+Dialogue: 1,0:18:05.16,0:18:13.76,SongWings,,0000,0000,0000,,{\fad(300,200)}kakenukete iku mado goshi ni omoide tachi mo machi nami mo\N{\fnTahoma\fs18\i0\c&H808080&}Memories and the view of the town pass by beyond the window.
+Dialogue: 0,0:18:13.76,0:18:15.12,MainStyle,,0000,0000,0000,,Hello?
+Dialogue: 0,0:18:15.12,0:18:17.30,MainStyle,,0000,0000,0000,,What?  You're who?
+Dialogue: 0,0:18:17.30,0:18:20.50,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}It's me.  It's been\Na while, Bunta.
+Dialogue: 0,0:18:20.50,0:18:24.15,MainStyle,,0000,0000,0000,,Oh, you.\NHow unusual of you.
+Dialogue: 0,0:18:24.15,0:18:26.41,MainStyle,,0000,0000,0000,,Did you get in an accident and are calling\Nfrom a hospital or something?
+Dialogue: 0,0:18:26.41,0:18:28.10,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Knock it off.
+Dialogue: 0,0:18:28.10,0:18:33.55,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Anyway, Bunta, a lot of people\Nare talking about your son.
+Dialogue: 0,0:18:33.55,0:18:35.16,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}They say he's pretty good.
+Dialogue: 0,0:18:37.61,0:18:40.22,MainStyle,,0000,0000,0000,,What?  Next Saturday?
+Dialogue: 0,0:18:40.22,0:18:43.23,MainStyle,,0000,0000,0000,,Takahashi Ryosuke?\NWho's that?
+Dialogue: 0,0:18:43.23,0:18:47.84,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}You don't know him?\NHe's well known in our world.
+Dialogue: 0,0:18:48.27,0:18:51.83,MainStyle,,0000,0000,0000,,I heard that he's the number\None street racer in Gunma.
+Dialogue: 0,0:18:51.83,0:18:55.75,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}My son's gonna race against him...?
+Dialogue: 0,0:18:55.75,0:18:58.82,MainStyle,,0000,0000,0000,,Answer me straight.\NWho do you think will win?
+Dialogue: 0,0:18:58.82,0:19:03.19,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}I don't know.\NI won't know until they race.
+Dialogue: 0,0:19:04.70,0:19:07.25,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Sounds just like you, Bunta.
+Dialogue: 0,0:19:07.25,0:19:12.55,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}I'm tempted to watch your son, whom you\Ntaught from the beginning to drift.
+Dialogue: 0,0:19:18.65,0:19:23.50,MainStyle,,0000,0000,0000,,Your drift scared the shit out of me,\Nand I still can't shake it off.
+Dialogue: 0,0:19:23.50,0:19:25.08,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}That was a long time ago.
+Dialogue: 0,0:19:25.08,0:19:26.85,MainStyle,,0000,0000,0000,,Mr. Tsuchiya, you're next.
+Dialogue: 0,0:19:26.85,0:19:27.54,MainStyle,,0000,0000,0000,,Okay.
+Dialogue: 0,0:19:27.94,0:19:29.39,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Later, Bunta.
+Dialogue: 0,0:20:17.57,0:20:21.45,MainStyle,,0000,0000,0000,,You've improved a lot compared\Nto when you started, Itsuki.
+Dialogue: 0,0:20:21.45,0:20:23.91,MainStyle,,0000,0000,0000,,Really?  Do you really think so?
+Dialogue: 0,0:20:23.91,0:20:28.30,MainStyle,,0000,0000,0000,,I'm glad to hear that from you!
+Dialogue: 0,0:20:28.30,0:20:32.00,MainStyle,,0000,0000,0000,,I've been practicing\Ngrip driving so often.
+Dialogue: 0,0:20:34.99,0:20:40.75,MainStyle,,0000,0000,0000,,Okay, for a special presentation, I'll show you\Na super technique, the result of long practice.
+Dialogue: 0,0:20:41.65,0:20:43.88,MainStyle,,0000,0000,0000,,The fantastic heel and toe!
+Dialogue: 0,0:20:49.52,0:20:54.65,MainStyle,,0000,0000,0000,,Something's wrong.\NI did it yesterday.
+Dialogue: 0,0:20:54.65,0:20:56.45,MainStyle,,0000,0000,0000,,Okay, in the next corner!
+Dialogue: 0,0:21:00.15,0:21:02.04,MainStyle,,0000,0000,0000,,One more time, please!
+Dialogue: 0,0:21:02.04,0:21:04.49,MainStyle,,0000,0000,0000,,W...wait.\NHold on, Itsuki!
+Dialogue: 0,0:21:12.89,0:21:15.30,MainStyle,,0000,0000,0000,,I'm relieved.
+Dialogue: 0,0:21:15.30,0:21:18.61,MainStyle,,0000,0000,0000,,I was worried that you\Nwere lovesick again.
+Dialogue: 0,0:21:19.73,0:21:22.30,MainStyle,,0000,0000,0000,,Lovesick?\NWhat do you mean?
+Dialogue: 0,0:21:22.30,0:21:24.37,MainStyle,,0000,0000,0000,,I wasn't lovesick.
+Dialogue: 0,0:21:24.37,0:21:26.95,MainStyle,,0000,0000,0000,,But you've been acting strange.
+Dialogue: 0,0:21:27.65,0:21:31.78,MainStyle,,0000,0000,0000,,Like I told you before,\NI was thinking.
+Dialogue: 0,0:21:31.78,0:21:38.68,MainStyle,,0000,0000,0000,,I'm wondering what'll happen after I win\Nor lose against Takahashi Ryosuke.
+Dialogue: 0,0:21:40.04,0:21:43.14,MainStyle,,0000,0000,0000,,Don't you know what I mean?
+Dialogue: 0,0:21:43.14,0:21:44.66,MainStyle,,0000,0000,0000,,I don't.
+Dialogue: 0,0:21:44.66,0:21:47.05,MainStyle,,0000,0000,0000,,Don't play riddle games.
+Dialogue: 0,0:21:47.05,0:21:49.76,MainStyle,,0000,0000,0000,,Should there be anything\Nafter that battle?
+Dialogue: 0,0:21:49.76,0:21:52.37,MainStyle,,0000,0000,0000,,It'll be okay if there's\Nnothing after that.
+Dialogue: 0,0:21:52.37,0:21:56.22,MainStyle,,0000,0000,0000,,You drive fast already.
+Dialogue: 0,0:21:56.22,0:21:57.90,MainStyle,,0000,0000,0000,,I don't.
+Dialogue: 0,0:21:57.90,0:22:00.57,MainStyle,,0000,0000,0000,,What're you talking about?\NYou are fast!
+Dialogue: 0,0:22:00.57,0:22:03.19,MainStyle,,0000,0000,0000,,You've been winning\None race after another!
+Dialogue: 0,0:22:03.78,0:22:06.17,MainStyle,,0000,0000,0000,,Is that it...?
+Dialogue: 0,0:22:07.11,0:22:11.79,MainStyle,,0000,0000,0000,,I don't know how I'd be...
+Dialogue: 0,0:22:11.79,0:22:16.35,MainStyle,,0000,0000,0000,,For now, you'd better concentrate on the\Nbattle against Takahashi Ryosuke!
+Dialogue: 0,0:22:16.35,0:22:18.79,MainStyle,,0000,0000,0000,,You don't have much time.
+Dialogue: 0,0:22:20.67,0:22:23.85,MainStyle,,0000,0000,0000,,Takahashi Ryosuke...
+Dialogue: 0,0:22:38.28,0:22:43.94,Song,,0000,0000,0000,,{Ai ni tsukarehate samayotte ta koro}Being tired of love, I wandered around...
+Dialogue: 0,0:22:44.36,0:22:50.68,Song,,0000,0000,0000,,{Yokubou dake ni kararete miushinatteita}...I lost myself to carnal desire.
+Dialogue: 0,0:22:51.88,0:23:05.66,Song,,0000,0000,0000,,{Kimagure na unmei wa mujaki na hitomi ni miserate yuku}Innocent eyes slowly charm my unpredictable fate.
+Dialogue: 0,0:23:07.25,0:23:10.62,Song,,0000,0000,0000,,{Sake bara no youni akaku}Bloom red like a rose.
+Dialogue: 0,0:23:10.62,0:23:14.09,Song,,0000,0000,0000,,{Tsuyoku tsuyoku kimo wo daite}Strongly, strongly I hold you tight.
+Dialogue: 0,0:23:14.09,0:23:21.05,Song,,0000,0000,0000,,{Tatta hitotsu kono omoi wo shinjitsu da to ieru}I can tell that only this feeling is true.
+Dialogue: 0,0:23:21.05,0:23:25.92,Song,,0000,0000,0000,,{Yorokobi wo kanadeyou}Let's play the melody of pleasure...
+Dialogue: 0,0:23:25.92,0:23:30.75,Song,,0000,0000,0000,,{Kagayaku mirai e}...into the bright future.
+Dialogue: 0,0:23:45.46,0:23:52.86,Song,,0000,0000,0000,,{Ah Kazoekirenai hodo tashikameaou}Let's make it sure over and over.
+Dialogue: 0,0:23:52.86,0:23:58.07,Song,,0000,0000,0000,,{Jounetu yo eien e todoke}This passion will be eternal.
+Dialogue: 0,0:23:58.81,0:24:02.04,Song,,0000,0000,0000,,{Sake bara no youni akaku}Bloom red like a rose.
+Dialogue: 0,0:24:02.04,0:24:05.58,Song,,0000,0000,0000,,{Tsuyoku tsuyoku dakishimete}Strongly, strongly I hold you.
+Dialogue: 0,0:24:05.58,0:24:12.47,Song,,0000,0000,0000,,{Tatoe nani wo ushinattemo kono ude wo hanasanai}Even if I lose everything, I won't let your arm go.
+Dialogue: 0,0:24:12.47,0:24:17.35,Song,,0000,0000,0000,,{Utsukushiku Karen ni sake}Bloom beautifully and gracefully.
+Dialogue: 0,0:24:17.35,0:24:22.79,Song,,0000,0000,0000,,{Kiseki no hana yo}The flower of miracles.
+Dialogue: 1,0:22:30.10,0:22:32.78,Credits,,0000,0000,0000,,{\fad(150,120)}{\a6}a remake standalone sub based on               \h\N\h               fansubfiles{\b0}{\i1}anime{\i0}'s{\b1} release
+Dialogue: 1,0:22:33.79,0:22:37.80,Credits,,0000,0000,0100,,{\fad(150,0)}{\a1}Original translations and\Nscripts by Central Anime
+Dialogue: 1,0:22:38.92,0:22:41.96,Credits,,0000,0000,0000,,{\fad(150,120)}{\a7}Repro sub by FXM-ID Project II
+Dialogue: 1,0:22:55.11,0:23:00.51,Credits,,0350,0000,0330,,{\fad(150,120)}By Fans for the Fans!\NNot for Sale or Rent!
+Dialogue: 0,0:24:30.01,0:24:34.22,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Ryosuke, you'll finally be able to test\Nyour hypothesis {theory} in battle.
+Dialogue: 0,0:24:34.22,0:24:37.34,MainStyle,,0000,0000,0000,,I'm looking forward to this opportunity\Nto present my hypothesis.{theory}
+Dialogue: 0,0:24:37.34,0:24:40.10,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Could you tell us your\Nhypothesis {theory} in detail?
+Dialogue: 0,0:24:40.10,0:24:44.32,MainStyle,,0000,0000,0000,,Do you know the formula\NE equal M C squared?
+Dialogue: 0,0:24:44.32,0:24:47.77,MainStyle,,0000,0000,0000,,It's Einstein's famous\NTheory of Relativity.
+Dialogue: 0,0:24:47.77,0:24:51.86,MainStyle,,0000,0000,0000,,First, I apply my own logic to it.
+Dialogue: 0,0:24:51.86,0:24:54.44,MainStyle,,0000,0000,0000,,Take E as the opponent's average speed.
+Dialogue: 0,0:24:54.44,0:24:58.32,MainStyle,,0000,0000,0000,,As long as my average speed exceeds it...
+Dialogue: 0,0:24:54.44,0:24:56.23,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&\fs24}Next time on Initial D:
+Dialogue: 0,0:24:56.23,0:24:58.00,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&\fs24}"The White Comet of Akagi!"
+Dialogue: 1,0:24:55.20,0:25:00.01,MainStyle,,0000,0110,0410,,Initial
+Dialogue: 1,0:24:55.20,0:25:00.01,MainStyle,,0000,0430,0260,,Next Time:
+Dialogue: 1,0:24:55.20,0:25:00.01,MainStyle,,0045,0000,0190,,The White Comet of Akagi!
+Dialogue: 0,0:24:58.33,0:24:59.71,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&\fs24}Don't miss it!

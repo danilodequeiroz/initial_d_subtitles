@@ -1,0 +1,416 @@
+[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: Initial D First Stage 26/16
+Original Script: Todd Perkins (Central Anime)
+Original Translation: Hiroaki Fukuda (Central Anime)
+Original Editing: Hiroaki Fukuda, Todd Perkins, Barbara, Dave, Mouse (Central Anime)
+Original Timing: Todd Perkins (Central Anime)
+Synch Point: Side 1 0m00s
+Script Updated By: sd_tenchi (fansubfiles anime), re-timed, re-edited ASS version by FXM
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,26,&H40F2F2F2,&H64109090,&H40000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,0
+Style: MainStyle,Arial,26,&H40F2F2F2,&H64109090,&H40000000,&H64000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,0
+Style: Song,Arial,26,&H0090A010,&H64109090,&H64000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,30,30,30,0
+Style: Credits,Arial,26,&H50D0D0D0,&H64109090,&H64000000,&H64000000,-1,0,0,0,100,90,0,0,1,2,0,2,30,30,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:05.02,0:00:08.42,MainStyle,,0000,0000,0000,,{\fad(40,300)}{\c&HA0A0A0&}This story is fiction. The names of people,\Nplaces and groups are imaginary.\NObey traffic rules and drive safely.
+Dialogue: 0,0:00:27.45,0:00:30.08,Song,,0000,0000,0000,,Information byousoku de tsutawaru jidai
+Dialogue: 0,0:00:30.08,0:00:32.38,Song,,0000,0000,0000,,Demo choice no shikata ga wakaranai
+Dialogue: 0,0:00:32.38,0:00:34.31,Song,,0000,0000,0000,,Money can't buy my love nante...
+Dialogue: 0,0:00:34.31,0:00:36.27,Song,,0000,0000,0000,,...nonki na yatsu ni lariat san kai
+Dialogue: 0,0:00:36.27,0:00:38.20,Song,,0000,0000,0000,,Manual douri ni tada dakiai
+Dialogue: 0,0:00:38.20,0:00:40.17,Song,,0000,0000,0000,,Ai ga nai koto ni ki ga tsukanai
+Dialogue: 0,0:00:40.17,0:00:42.79,Song,,0000,0000,0000,,Chissoku suru mae ni sakebouze Ho!!!
+Dialogue: 0,0:00:42.79,0:00:43.93,Song,,0000,0000,0000,,In the midnight dream.
+Dialogue: 0,0:00:43.93,0:00:47.90,Song,,0000,0000,0000,,Iki sae tsukenai nemurenai machi
+Dialogue: 0,0:00:47.90,0:00:51.84,Song,,0000,0000,0000,,Suki mo misezu ni waraiatte
+Dialogue: 0,0:00:51.84,0:00:55.95,Song,,0000,0000,0000,,Uso sae safety honto ga empty
+Dialogue: 0,0:00:55.95,0:01:00.00,Song,,0000,0000,0000,,Abunai kurai ni wanna shut and break out
+Dialogue: 0,0:01:00.00,0:01:01.88,Song,,0000,0000,0000,,Now, we gotta start.  Let's get moving.
+Dialogue: 0,0:01:01.88,0:01:03.62,Song,,0000,0000,0000,,Let's move into the brand new world.
+Dialogue: 0,0:01:03.62,0:01:05.88,Song,,0000,0000,0000,,Let's dive into the brand new trip.
+Dialogue: 0,0:01:05.88,0:01:09.60,Song,,0000,0000,0000,,Hiroi sekai ni obieteru
+Dialogue: 0,0:01:09.60,0:01:11.90,Song,,0000,0000,0000,,Hajimatta bakari no
+Dialogue: 0,0:01:11.90,0:01:13.87,Song,,0000,0000,0000,,Now we go full speed and funky beat.
+Dialogue: 0,0:01:13.87,0:01:15.60,Song,,0000,0000,0000,,Kitto kagayaku
+Dialogue: 0,0:01:15.60,0:01:17.50,Song,,0000,0000,0000,,Around the world.
+Dialogue: 0,0:01:17.50,0:01:18.45,Song,,0000,0000,0000,,Trip to the world.
+Dialogue: 0,0:01:18.45,0:01:20.35,Song,,0000,0000,0000,,Yo! Here we go unknown world he to
+Dialogue: 0,0:01:20.35,0:01:22.10,Song,,0000,0000,0000,,Umareta bakkari no tabibito
+Dialogue: 0,0:01:22.10,0:01:24.15,Song,,0000,0000,0000,,Narenai ashidori mo mata aikyou
+Dialogue: 0,0:01:24.15,0:01:26.25,Song,,0000,0000,0000,,Kimeru took dake bashitto
+Dialogue: 0,0:01:26.25,0:01:27.77,Song,,0000,0000,0000,,So many people in this world...
+Dialogue: 0,0:01:27.77,0:01:30.07,Song,,0000,0000,0000,,...toki ni chuusyou toka mo nai wake ja nai kedo
+Dialogue: 0,0:01:30.07,0:01:32.11,Song,,0000,0000,0000,,Tsumannai took wa warp shitekou
+Dialogue: 0,0:01:32.11,0:01:33.60,Song,,0000,0000,0000,,Suji dake wa toosite ikiteru
+Dialogue: 0,0:01:33.60,0:01:35.38,Song,,0000,0000,0000,,That's our law.
+Dialogue: 0,0:01:57.38,0:01:58.82,MainStyle,,0000,0000,0000,,You're hopeless!
+Dialogue: 0,0:01:58.24,0:02:00.09,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}So lame!
+Dialogue: 0,0:01:58.82,0:02:00.38,MainStyle,,0000,0000,0000,,Your driving sucks!
+Dialogue: 0,0:02:02.10,0:02:04.55,MainStyle,,0000,0000,0000,,Wataru hasn't improved at all.
+Dialogue: 0,0:02:04.55,0:02:05.31,MainStyle,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:02:05.31,0:02:06.40,MainStyle,,0000,0000,0000,,Hey, here it comes!
+Dialogue: 0,0:02:12.75,0:02:13.54,MainStyle,,0000,0000,0000,,Oh no.
+Dialogue: 0,0:02:13.54,0:02:14.69,MainStyle,,0000,0000,0000,,Hey, clear the road!
+Dialogue: 0,0:02:14.69,0:02:16.94,MainStyle,,0000,0000,0000,,Hurry, it's almost here!
+Dialogue: 0,0:02:24.25,0:02:27.10,MainStyle,,0000,0000,0000,,Watch the best driver carefully.
+Dialogue: 0,0:02:34.46,0:02:38.53,MainStyle,,0000,0000,0000,,Wow, it's awesome.\NNo one can copy that.
+Dialogue: 0,0:02:42.97,0:02:44.51,MainStyle,,0000,0000,0000,,Don't worry.\NOvertake it.
+Dialogue: 0,0:02:45.19,0:02:47.76,MainStyle,,0000,0000,0000,,We're gonna pass an oncoming\Ncar at the exit of the corner.
+Dialogue: 0,0:02:47.76,0:02:48.78,MainStyle,,0000,0000,0000,,Open the inside!
+Dialogue: 0,0:02:54.98,0:02:55.99,MainStyle,,0000,0000,0000,,Next, no oncoming car.
+Dialogue: 0,0:02:55.99,0:02:57.39,MainStyle,,0000,0000,0000,,Get 5 cm closer to the inside.
+Dialogue: 0,0:02:57.39,0:02:58.34,MainStyle,,0000,0000,0000,,It's sandy.
+Dialogue: 0,0:03:03.98,0:03:07.01,MainStyle,,0000,0000,0000,,Just right, and you're in a good\Nmood and driving well.
+Dialogue: 0,0:03:07.01,0:03:09.06,MainStyle,,0000,0000,0000,,No one can defeat you now.
+Dialogue: 1,0:03:16.02,0:03:22.03,MainStyle,,0000,0200,0062,,{\fad(1000,1040)}{\2a&HFF&}The Angels of Usui Mountain
+Dialogue: 0,0:03:24.00,0:03:25.59,MainStyle,,0000,0000,0000,,N...no way!
+Dialogue: 0,0:03:26.54,0:03:31.15,MainStyle,,0000,0000,0000,,A girl you met for the first time\Ngave you her phone number?!
+Dialogue: 0,0:03:31.15,0:03:33.67,MainStyle,,0000,0000,0000,,I can't believe that!
+Dialogue: 0,0:03:33.67,0:03:35.95,MainStyle,,0000,0000,0000,,Something's definitely wrong.
+Dialogue: 0,0:03:35.95,0:03:38.34,MainStyle,,0000,0000,0000,,That's right, Iketani!
+Dialogue: 0,0:03:38.34,0:03:40.53,MainStyle,,0000,0000,0000,,Life isn't that easy!
+Dialogue: 0,0:03:40.53,0:03:44.55,MainStyle,,0000,0000,0000,,I...I...
+Dialogue: 0,0:03:46.02,0:03:49.54,MainStyle,,0000,0000,0000,,A Road Racer doesn't need a girl!
+Dialogue: 0,0:03:49.54,0:03:53.73,MainStyle,,0000,0000,0000,,Besides, it doesn't sound like you if there's\Nnothing wrong with this kind of situation.
+Dialogue: 0,0:03:54.67,0:03:57.74,MainStyle,,0000,0000,0000,,What do you mean it doesn't\Nsound like me, Kenji?
+Dialogue: 0,0:03:57.74,0:03:59.68,MainStyle,,0000,0000,0000,,Are you making fun of me?
+Dialogue: 0,0:03:59.68,0:04:01.74,MainStyle,,0000,0000,0000,,I don't mean it like that.
+Dialogue: 0,0:04:01.74,0:04:03.80,MainStyle,,0000,0000,0000,,It just sounds too good to be true.
+Dialogue: 0,0:04:04.89,0:04:06.49,MainStyle,,0000,0000,0000,,I hate it.
+Dialogue: 0,0:04:06.49,0:04:09.83,MainStyle,,0000,0000,0000,,I don't like your envious thoughts.
+Dialogue: 0,0:04:10.58,0:04:14.10,MainStyle,,0000,0000,0000,,Her long brown hair that waved in the wind...
+Dialogue: 0,0:04:14.10,0:04:17.90,MainStyle,,0000,0000,0000,,Her charming eyes when she turned to me...
+Dialogue: 0,0:04:17.90,0:04:25.25,MainStyle,,0000,0000,0000,,God must have sent an angel\Nto a guy who works hard!
+Dialogue: 0,0:04:26.37,0:04:30.33,MainStyle,,0000,0000,0000,,I'll go to Karuizawa to see\NMako tomorrow.
+Dialogue: 0,0:04:34.24,0:04:36.14,MainStyle,,0000,0000,0000,,Alright, back to work.
+Dialogue: 0,0:04:38.13,0:04:42.40,MainStyle,,0000,0000,0000,,Hey, why don't we follow him\Nto see how cute she is?
+Dialogue: 0,0:04:42.40,0:04:47.01,MainStyle,,0000,0000,0000,,Yeah, let's go.\NWe've got to see this girl.
+Dialogue: 0,0:04:47.01,0:04:50.11,MainStyle,,0000,0000,0000,,But what if Iketani notices us?
+Dialogue: 0,0:04:50.11,0:04:51.52,MainStyle,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:04:51.52,0:04:55.29,MainStyle,,0000,0000,0000,,Iketani can't focus on anything\Nelse right now.
+Dialogue: 0,0:04:55.58,0:05:01.09,MainStyle,,0000,0000,0000,,I've got to check out\Nthis girl called Mako.{Welcome.}
+Dialogue: 0,0:04:55.58,0:04:56.99,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Welcome!
+Dialogue: 0,0:05:01.07,0:05:03.81,MainStyle,,0000,0000,0000,,Hey, don't get in Iketani's way.
+Dialogue: 0,0:05:03.81,0:05:05.61,MainStyle,,0000,0000,0000,,We won't bother him!
+Dialogue: 0,0:05:05.61,0:05:08.69,MainStyle,,0000,0000,0000,,When he gets dumped,\Nwe'll cry together.
+Dialogue: 0,0:05:08.69,0:05:10.76,MainStyle,,0000,0000,0000,,For the sake of our friendship.
+Dialogue: 0,0:05:10.76,0:05:12.96,MainStyle,,0000,0000,0000,,Gets dumped, you say...?
+Dialogue: 0,0:05:35.80,0:05:39.36,MainStyle,,0000,0000,0000,,She can't be as good looking as he says.
+Dialogue: 0,0:05:39.36,0:05:43.61,MainStyle,,0000,0000,0000,,He tends to exaggerate, and\Nhe easily convinces himself.
+Dialogue: 0,0:05:43.61,0:05:44.82,MainStyle,,0000,0000,0000,,You're right.
+Dialogue: 0,0:05:44.82,0:05:48.22,MainStyle,,0000,0000,0000,,I think it was when we were\Nin middle school...
+Dialogue: 0,0:05:48.22,0:05:51.35,MainStyle,,0000,0000,0000,,We went to Akina Lake to fish.
+Dialogue: 0,0:05:51.35,0:05:56.84,MainStyle,,0000,0000,0000,,We didn't catch anything until I caught\Na small one just before we went home.
+Dialogue: 0,0:05:56.84,0:05:58.89,MainStyle,,0000,0000,0000,,He was so excited, and said...
+Dialogue: 0,0:05:58.89,0:06:02.01,MainStyle,,0000,0000,0000,,..."It's so big!" out loud.
+Dialogue: 0,0:06:02.01,0:06:04.44,MainStyle,,0000,0000,0000,,It was this small.
+Dialogue: 0,0:06:04.44,0:06:07.75,MainStyle,,0000,0000,0000,,Strangers came to see it.
+Dialogue: 0,0:06:07.75,0:06:10.89,MainStyle,,0000,0000,0000,,I was so embarrassed at that time.
+Dialogue: 0,0:06:11.73,0:06:15.76,MainStyle,,0000,0000,0000,,Iketani can really exaggerate things.
+Dialogue: 0,0:06:16.36,0:06:18.89,MainStyle,,0000,0000,0000,,Kenji, take a look!
+Dialogue: 0,0:06:21.18,0:06:26.59,MainStyle,,0000,0000,0000,,Damn, I was so absorbed in talking,\NI wasn't paying attention to my right foot.
+Dialogue: 0,0:06:26.59,0:06:29.49,MainStyle,,0000,0000,0000,,I was supposed to follow him,\Nbut I caught up with him.
+Dialogue: 0,0:06:30.15,0:06:32.02,MainStyle,,0000,0000,0000,,Sorry, Iketani!
+Dialogue: 0,0:06:32.02,0:06:33.30,MainStyle,,0000,0000,0000,,Forgive me.
+Dialogue: 0,0:06:33.30,0:06:36.19,MainStyle,,0000,0000,0000,,We just wanted to see\Nwhat Mako looks like.
+Dialogue: 0,0:06:36.37,0:06:37.87,MainStyle,,0000,0000,0000,,It's true.
+Dialogue: 0,0:06:37.87,0:06:40.57,MainStyle,,0000,0000,0000,,We have no intention of bothering\Nyou on your date.
+Dialogue: 0,0:06:40.57,0:06:42.39,MainStyle,,0000,0000,0000,,Don't be mad.
+Dialogue: 0,0:06:42.39,0:06:45.20,MainStyle,,0000,0000,0000,,We'll turn around at the next interchange.
+Dialogue: 0,0:06:45.78,0:06:47.41,MainStyle,,0000,0000,0000,,It can't be helped.
+Dialogue: 0,0:06:47.94,0:06:50.12,MainStyle,,0000,0000,0000,,You don't have to leave.
+Dialogue: 0,0:06:50.12,0:06:53.06,MainStyle,,0000,0000,0000,,I don't mind introducing you to her.
+Dialogue: 0,0:06:53.06,0:06:54.35,MainStyle,,0000,0000,0000,,Really?
+Dialogue: 0,0:06:54.35,0:06:55.40,MainStyle,,0000,0000,0000,,Great!
+Dialogue: 0,0:06:55.40,0:06:56.74,MainStyle,,0000,0000,0000,,But...
+Dialogue: 0,0:06:56.74,0:07:00.93,MainStyle,,0000,0000,0000,,...don't follow us after that,\Nor I will get mad.
+Dialogue: 0,0:07:00.93,0:07:01.75,MainStyle,,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:02.57,0:07:03.91,MainStyle,,0000,0000,0000,,So...
+Dialogue: 0,0:07:05.61,0:07:08.83,MainStyle,,0000,0000,0000,,...they're my friends.
+Dialogue: 0,0:07:10.12,0:07:12.89,MainStyle,,0000,0000,0000,,Nice to meet you.\NI'm Sato Mako.
+Dialogue: 0,0:07:18.81,0:07:19.68,MainStyle,,0000,0000,0000,,H...hi.
+Dialogue: 0,0:07:19.68,0:07:21.17,MainStyle,,0000,0000,0000,,H...hello.
+Dialogue: 0,0:07:22.15,0:07:23.59,MainStyle,,0000,0000,0000,,Well, Mako...
+Dialogue: 0,0:07:23.59,0:07:24.44,MainStyle,,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:33.93,0:07:36.43,MainStyle,,0000,0000,0000,,Are we dogs or something?
+Dialogue: 0,0:07:44.35,0:07:46.92,MainStyle,,0000,0000,0000,,It's not a dream.
+Dialogue: 0,0:07:46.92,0:07:48.66,MainStyle,,0000,0000,0000,,I don't believe it.
+Dialogue: 0,0:07:49.47,0:07:51.61,MainStyle,,0000,0000,0000,,I'm so shocked.
+Dialogue: 0,0:07:51.61,0:07:54.28,MainStyle,,0000,0000,0000,,How could Iketani find such a cute girl?
+Dialogue: 0,0:07:54.28,0:07:56.79,MainStyle,,0000,0000,0000,,Road Racers don't need a girl.
+Dialogue: 0,0:07:56.79,0:07:59.19,MainStyle,,0000,0000,0000,,Kenji, why don't we cry together?
+Dialogue: 0,0:07:59.19,0:08:00.68,MainStyle,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:08:00.68,0:08:03.13,MainStyle,,0000,0000,0000,,Are you saying I'll never find a girl?
+Dialogue: 0,0:08:03.13,0:08:05.36,MainStyle,,0000,0000,0000,,It was just a joke!
+Dialogue: 0,0:08:07.25,0:08:10.70,MainStyle,,0000,0000,0000,,What should we do now?
+Dialogue: 0,0:08:10.70,0:08:12.35,MainStyle,,0000,0000,0000,,Well...
+Dialogue: 0,0:08:12.74,0:08:18.93,MainStyle,,0000,0000,0000,,Karuizawa isn't the place for three guys\Nto hang out this time of year.
+Dialogue: 0,0:08:20.09,0:08:22.34,MainStyle,,0000,0000,0000,,Why don't we go to Usui's mountain pass?
+Dialogue: 0,0:08:39.33,0:08:40.40,MainStyle,,0000,0000,0000,,S...sorry.
+Dialogue: 0,0:08:41.65,0:08:44.89,MainStyle,,0000,0000,0000,,Do you have a favorite car, Mako?
+Dialogue: 0,0:08:45.60,0:08:47.36,MainStyle,,0000,0000,0000,,It's not quite my favorite...
+Dialogue: 0,0:08:48.37,0:08:53.27,MainStyle,,0000,0000,0000,,...but I used to dream of\Nthe previous model RX-7.
+Dialogue: 0,0:08:53.27,0:08:55.29,MainStyle,,0000,0000,0000,,The FC?
+Dialogue: 0,0:08:56.29,0:08:58.46,MainStyle,,0000,0000,0000,,You have good taste.
+Dialogue: 0,0:08:59.48,0:09:02.62,MainStyle,,0000,0000,0000,,You're a Road Racer, aren't you?
+Dialogue: 0,0:09:03.09,0:09:06.83,MainStyle,,0000,0000,0000,,Well...can you tell?
+Dialogue: 0,0:09:06.83,0:09:10.78,MainStyle,,0000,0000,0000,,I usually try to drive like everyone else.
+Dialogue: 0,0:09:12.49,0:09:18.93,MainStyle,,0000,0000,0000,,And... What do you think of Road Racers?
+Dialogue: 0,0:09:19.49,0:09:22.90,MainStyle,,0000,0000,0000,,I think it's alright, because\NI also like cars.
+Dialogue: 0,0:09:23.74,0:09:24.79,MainStyle,,0000,0000,0000,,Really?
+Dialogue: 0,0:09:24.79,0:09:31.01,MainStyle,,0000,0000,0000,,Road Racers are better at driving\Nthan ordinary people.
+Dialogue: 0,0:09:31.01,0:09:34.09,MainStyle,,0000,0000,0000,,If you have money, you\Ncan buy a good car...
+Dialogue: 0,0:09:34.09,0:09:36.26,MainStyle,,0000,0000,0000,,...but you can't buy technique.
+Dialogue: 0,0:09:36.26,0:09:39.84,MainStyle,,0000,0000,0000,,I prefer someone who can use\Ntechnique when needed...
+Dialogue: 0,0:09:39.84,0:09:44.84,MainStyle,,0000,0000,0000,,...to someone who has\Nan expensive imported car.
+Dialogue: 0,0:09:45.80,0:09:47.33,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}She's great.
+Dialogue: 0,0:09:47.33,0:09:49.28,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}She's my ideal girl.
+Dialogue: 0,0:09:56.62,0:09:59.08,MainStyle,,0000,0000,0000,,So this is Usui's mountain pass...
+Dialogue: 0,0:09:59.08,0:10:05.06,MainStyle,,0000,0000,0000,,This is the first time I've seen it, and it's a much\Nharder winding road than I imagined.
+Dialogue: 0,0:10:05.76,0:10:08.01,MainStyle,,0000,0000,0000,,It's incredible.
+Dialogue: 0,0:10:08.01,0:10:12.15,MainStyle,,0000,0000,0000,,It's one corner after another,\Nand the road is narrow.
+Dialogue: 0,0:10:12.15,0:10:15.95,MainStyle,,0000,0000,0000,,It's nothing like Akina.
+Dialogue: 0,0:10:17.52,0:10:21.12,MainStyle,,0000,0000,0000,,I wonder who's the fastest on Usui.
+Dialogue: 0,0:10:23.72,0:10:26.69,MainStyle,,0000,0000,0000,,Umm...you are...
+Dialogue: 0,0:10:26.69,0:10:28.13,MainStyle,,0000,0000,0000,,Y...yes...?
+Dialogue: 0,0:10:28.92,0:10:30.95,MainStyle,,0000,0000,0000,,From a man's point of view...
+Dialogue: 0,0:10:30.95,0:10:36.20,MainStyle,,0000,0000,0000,,...if there's a girl who likes mountain passes,\Nand tries to be a Road Racer...
+Dialogue: 0,0:10:36.20,0:10:37.91,MainStyle,,0000,0000,0000,,...what would you think about that?
+Dialogue: 0,0:10:40.29,0:10:42.35,MainStyle,,0000,0000,0000,,Sil-Eighty?
+Dialogue: 0,0:10:42.85,0:10:46.30,MainStyle,,0000,0000,0000,,Yeah, the blue Sil-Eighty is said\Nto be the fastest.
+Dialogue: 0,0:10:46.30,0:10:48.16,MainStyle,,0000,0000,0000,,Don't be surprised by this, though...
+Dialogue: 0,0:10:48.16,0:10:50.28,MainStyle,,0000,0000,0000,,The driver is a woman.
+Dialogue: 0,0:10:50.28,0:10:52.15,MainStyle,,0000,0000,0000,,A woman?!
+Dialogue: 0,0:10:53.33,0:10:55.67,MainStyle,,0000,0000,0000,,Female Road Racer?
+Dialogue: 0,0:10:55.67,0:10:57.14,MainStyle,,0000,0000,0000,,Y...yeah.
+Dialogue: 0,0:10:57.14,0:11:00.63,MainStyle,,0000,0000,0000,,I like it.\NI think it's okay.
+Dialogue: 0,0:11:00.63,0:11:01.74,MainStyle,,0000,0000,0000,,It's great.
+Dialogue: 0,0:11:01.74,0:11:04.82,MainStyle,,0000,0000,0000,,A female Road Racer would\Nbe wonderful to talk to.
+Dialogue: 0,0:11:04.82,0:11:05.89,MainStyle,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:11:05.89,0:11:07.21,MainStyle,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:08.46,0:11:11.10,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I see.  I get it.
+Dialogue: 0,0:11:11.10,0:11:13.89,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}She wants to be a Road Racer.
+Dialogue: 0,0:11:13.89,0:11:17.18,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}And her dream car is the FC.
+Dialogue: 0,0:11:17.18,0:11:19.72,MainStyle,,0000,0000,0000,,A girl driving a Sil-Eighty...?
+Dialogue: 0,0:11:19.72,0:11:22.17,MainStyle,,0000,0000,0000,,What's a Sil-Eighty?
+Dialogue: 0,0:11:22.17,0:11:23.12,MainStyle,,0000,0000,0000,,Is it an import?
+Dialogue: 0,0:11:23.12,0:11:24.56,MainStyle,,0000,0000,0000,,No.
+Dialogue: 0,0:11:24.56,0:11:29.01,MainStyle,,0000,0000,0000,,The Sil-Eighty is a 180 with\Na Silvia front {face} on it.
+Dialogue: 0,0:11:29.01,0:11:33.09,MainStyle,,0000,0000,0000,,A Silvia and a 180 are combined,\Nso it's called a Sil-Eighty.
+Dialogue: 0,0:11:34.70,0:11:40.04,MainStyle,,0000,0000,0000,,And the driver is a girl, and she's the\Nfastest on Usui's mountain pass.
+Dialogue: 0,0:11:40.04,0:11:41.58,MainStyle,,0000,0000,0000,,I want to see this.
+Dialogue: 0,0:11:41.58,0:11:45.69,MainStyle,,0000,0000,0000,,If you wait until nightfall, you'll be able\Nto see it on Usui's mountain pass.
+Dialogue: 0,0:11:45.69,0:11:51.99,MainStyle,,0000,0000,0000,,But don't even think about challenging her,\Nbecause none of the locals can defeat her.
+Dialogue: 0,0:12:08.84,0:12:11.50,MainStyle,,0000,0000,0000,,It's called the Akina Speedstars.
+Dialogue: 0,0:12:11.50,0:12:17.35,MainStyle,,0000,0000,0000,,I assembled the team, and we have\Nthe fastest driver on Akina.
+Dialogue: 0,0:12:17.35,0:12:19.56,MainStyle,,0000,0000,0000,,He's my junior worker.
+Dialogue: 0,0:12:19.56,0:12:23.19,MainStyle,,0000,0000,0000,,Speaking of the skill,\NI guess I'd be second.
+Dialogue: 0,0:12:23.56,0:12:25.40,MainStyle,,0000,0000,0000,,What's wrong, Mako?
+Dialogue: 0,0:12:25.40,0:12:27.91,MainStyle,,0000,0000,0000,,Oh, nothing at all.
+Dialogue: 0,0:12:27.91,0:12:29.14,MainStyle,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:12:29.14,0:12:32.55,MainStyle,,0000,0000,0000,,I must be boring you with\Nall this talk about cars.
+Dialogue: 0,0:12:32.55,0:12:34.61,MainStyle,,0000,0000,0000,,No, not at all.
+Dialogue: 0,0:12:34.61,0:12:38.24,MainStyle,,0000,0000,0000,,I like cars a lot, so it's fun.
+Dialogue: 0,0:12:38.24,0:12:40.90,MainStyle,,0000,0000,0000,,Really?\NThat's good.
+Dialogue: 0,0:12:43.37,0:12:49.13,MainStyle,,0000,0000,0000,,Ah, do you think drift is cool, too?
+Dialogue: 0,0:12:49.13,0:12:50.33,MainStyle,,0000,0000,0000,,Well... a little.
+Dialogue: 0,0:12:50.33,0:12:55.33,MainStyle,,0000,0000,0000,,You have to drive hard\Nlike me to master that.
+Dialogue: 0,0:12:55.33,0:12:57.04,MainStyle,,0000,0000,0000,,It's a dangerous technique.
+Dialogue: 0,0:12:58.26,0:13:01.14,MainStyle,,0000,0000,0000,,Are you good at drifting?
+Dialogue: 0,0:13:01.14,0:13:02.06,MainStyle,,0000,0000,0000,,A little...
+Dialogue: 0,0:13:02.06,0:13:04.84,MainStyle,,0000,0000,0000,,I'm happy for some reason.
+Dialogue: 0,0:13:04.84,0:13:06.28,MainStyle,,0000,0000,0000,,You are...?
+Dialogue: 0,0:13:14.02,0:13:16.72,MainStyle,,0000,0000,0000,,Thank you.  It was fun today.
+Dialogue: 0,0:13:18.38,0:13:19.73,MainStyle,,0000,0000,0000,,Ah, Mako...
+Dialogue: 0,0:13:19.73,0:13:21.20,MainStyle,,0000,0000,0000,,Yes?
+Dialogue: 0,0:13:21.20,0:13:25.02,MainStyle,,0000,0000,0000,,Are you...\NWell...
+Dialogue: 0,0:13:25.45,0:13:28.04,MainStyle,,0000,0000,0000,,Is there someone you're\Ngoing out with now...?
+Dialogue: 0,0:13:28.04,0:13:29.08,MainStyle,,0000,0000,0000,,Well...
+Dialogue: 0,0:13:29.08,0:13:31.44,MainStyle,,0000,0000,0000,,Do you have anyone?
+Dialogue: 0,0:13:32.87,0:13:35.86,MainStyle,,0000,0000,0000,,I... don't have a boyfriend.
+Dialogue: 0,0:13:37.83,0:13:41.74,MainStyle,,0000,0000,0000,,So, please call me again, Iketani.
+Dialogue: 0,0:13:51.48,0:13:54.41,MainStyle,,0000,0000,0000,,Hey, Iketani...\NCan you hear me?
+Dialogue: 0,0:13:54.61,0:13:57.09,MainStyle,,0000,0000,0000,,Iketani, get a grip.
+Dialogue: 0,0:13:59.92,0:14:01.54,MainStyle,,0000,0000,0000,,I'm...
+Dialogue: 0,0:14:02.51,0:14:03.96,MainStyle,,0000,0000,0000,,Why're you guys still here?
+Dialogue: 0,0:14:03.96,0:14:08.27,MainStyle,,0000,0000,0000,,We were concerned about you,\Nso we couldn't go home.
+Dialogue: 0,0:14:08.27,0:14:10.90,MainStyle,,0000,0000,0000,,So how was it?\NDid it go well?
+Dialogue: 0,0:14:13.33,0:14:15.80,MainStyle,,0000,0000,0000,,Today is such a wonderful day!
+Dialogue: 0,0:14:16.63,0:14:18.52,MainStyle,,0000,0000,0000,,Let's go eat.
+Dialogue: 0,0:14:18.52,0:14:20.64,MainStyle,,0000,0000,0000,,It doesn't happen very often,\Nbut it's gonna be my treat.
+Dialogue: 0,0:14:20.64,0:14:25.25,MainStyle,,0000,0000,0000,,And it's not a bad idea to take a look at\Nthe Usui guys' driving, too.
+Dialogue: 0,0:14:25.53,0:14:28.40,MainStyle,,0000,0000,0000,,I guess it went well.
+Dialogue: 0,0:14:28.40,0:14:31.25,MainStyle,,0000,0000,0000,,So miracles do happen.
+Dialogue: 0,0:14:35.53,0:14:36.90,MainStyle,,0000,0000,0000,,Pretty good.
+Dialogue: 0,0:14:36.90,0:14:39.55,MainStyle,,0000,0000,0000,,Everyone on Usui is highly skilled.
+Dialogue: 0,0:14:42.63,0:14:44.30,MainStyle,,0000,0000,0000,,Hey, Takumi...
+Dialogue: 0,0:14:44.30,0:14:48.17,MainStyle,,0000,0000,0000,,...you'd never seen a mountain pass\Nother than Akina, right?
+Dialogue: 0,0:14:48.17,0:14:49.38,MainStyle,,0000,0000,0000,,How was it?
+Dialogue: 0,0:14:49.38,0:14:51.11,MainStyle,,0000,0000,0000,,"How was it?"
+Dialogue: 0,0:14:51.11,0:14:55.38,MainStyle,,0000,0000,0000,,I wasn't driving, so I don't know.
+Dialogue: 0,0:14:55.38,0:14:59.81,MainStyle,,0000,0000,0000,,Are you sure?\NYou looked so serious.
+Dialogue: 0,0:14:59.81,0:15:00.83,MainStyle,,0000,0000,0000,,I did?
+Dialogue: 0,0:15:01.50,0:15:03.74,MainStyle,,0000,0000,0000,,Your eyes looked totally\Ndifferent from now.
+Dialogue: 0,0:15:03.74,0:15:05.98,MainStyle,,0000,0000,0000,,I can't believe they're\Nof the same person.
+Dialogue: 0,0:15:05.98,0:15:07.86,MainStyle,,0000,0000,0000,,What do you say?\NDo you think you can drive it?
+Dialogue: 0,0:15:07.86,0:15:10.82,MainStyle,,0000,0000,0000,,I can't tell unless I try.
+Dialogue: 0,0:15:10.82,0:15:11.61,MainStyle,,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:15:11.61,0:15:13.38,MainStyle,,0000,0000,0000,,The Sil-Eighty?
+Dialogue: 0,0:15:23.22,0:15:24.58,MainStyle,,0000,0000,0000,,Nonstop counter drift?
+Dialogue: 0,0:15:24.58,0:15:26.27,MainStyle,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:15:28.04,0:15:30.15,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}She's really good.
+Dialogue: 0,0:15:30.55,0:15:31.84,MainStyle,,0000,0000,0000,,See that?
+Dialogue: 0,0:15:31.84,0:15:33.90,MainStyle,,0000,0000,0000,,The road is narrow,\Nso it looked so exciting.
+Dialogue: 0,0:15:35.22,0:15:39.89,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I talked big and told Mako\Nthat I'm good at drifting...
+Dialogue: 0,0:15:39.89,0:15:43.81,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}...but in reality, I panic when\Nthe rear starts to skid.
+Dialogue: 0,0:15:43.81,0:15:45.51,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}This is bad.
+Dialogue: 0,0:15:45.51,0:15:49.21,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I've gotta practice hard,\Nor my angel will be gone!
+Dialogue: 0,0:15:49.50,0:15:51.15,MainStyle,,0000,0000,0000,,Let's go down.
+Dialogue: 0,0:15:51.15,0:15:52.60,MainStyle,,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:52.60,0:15:55.57,MainStyle,,0000,0000,0000,,Every mountain pass has\Nan incredible driver.
+Dialogue: 0,0:16:08.62,0:16:12.00,MainStyle,,0000,0000,0000,,Hey, look... Iketani\Nis driving so fast.
+Dialogue: 0,0:16:12.00,0:16:15.73,MainStyle,,0000,0000,0000,,There are three in here,\Nso I can't keep up.
+Dialogue: 0,0:16:15.73,0:16:18.09,MainStyle,,0000,0000,0000,,You'd better keep your distance.
+Dialogue: 0,0:16:18.09,0:16:23.27,MainStyle,,0000,0000,0000,,The rhythm is bad.\NSomething's wrong with his car.
+Dialogue: 0,0:16:23.27,0:16:25.48,MainStyle,,0000,0000,0000,,Do you think something's gonna happen?
+Dialogue: 0,0:16:25.48,0:16:28.89,MainStyle,,0000,0000,0000,,I don't mean that something\Nwill happen, but probably...
+Dialogue: 0,0:16:28.89,0:16:29.85,MainStyle,,0000,0000,0000,,Probably?
+Dialogue: 0,0:16:36.07,0:16:38.24,MainStyle,,0000,0000,0000,,He screwed up, just like you said!
+Dialogue: 0,0:16:38.99,0:16:41.09,MainStyle,,0000,0000,0000,,Just like Takumi said.
+Dialogue: 0,0:16:43.55,0:16:45.39,MainStyle,,0000,0000,0000,,Oh shit, a car is coming!
+Dialogue: 0,0:16:54.80,0:16:58.44,MainStyle,,0000,0000,0000,,That was close.\NWho's that idiot?
+Dialogue: 0,0:16:59.10,0:17:02.74,MainStyle,,0000,0000,0000,,The rear skidded, he got scared, released\Nthe gas pedal, and oversteered.
+Dialogue: 0,0:17:02.74,0:17:05.16,MainStyle,,0000,0000,0000,,That's the most uncool spin\Nonly an amateur would do.
+Dialogue: 0,0:17:05.67,0:17:07.74,MainStyle,,0000,0000,0000,,Hey, 13 dude!
+Dialogue: 0,0:17:07.74,0:17:11.71,MainStyle,,0000,0000,0000,,If you don't move your car quickly,\Nyou'll endanger other cars!
+Dialogue: 0,0:17:12.00,0:17:13.47,MainStyle,,0000,0000,0000,,I'm moving it now.
+Dialogue: 0,0:17:15.27,0:17:17.36,MainStyle,,0000,0000,0000,,It's so embarrassing!
+Dialogue: 0,0:17:17.36,0:17:19.71,MainStyle,,0000,0000,0000,,How uncool.\NLet's pretend to be strangers.
+Dialogue: 0,0:17:21.20,0:17:23.15,MainStyle,,0000,0000,0000,,I'm really sor...
+Dialogue: 0,0:17:41.34,0:17:42.64,MainStyle,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:17:43.34,0:17:45.25,MainStyle,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:17:53.56,0:17:57.16,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Usui Mountain's fastest driver is...
+Dialogue: 0,0:17:57.16,0:17:58.87,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}...Mako in her Sil-Eighty!
+Dialogue: 0,0:18:01.24,0:18:03.66,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I feel like I could die.
+Dialogue: 0,0:18:07.07,0:18:08.42,MainStyle,,0000,0000,0000,,He took the day off?
+Dialogue: 0,0:18:08.42,0:18:10.40,MainStyle,,0000,0000,0000,,He didn't even call.
+Dialogue: 0,0:18:10.40,0:18:13.44,MainStyle,,0000,0000,0000,,That workaholic, Iketani?
+Dialogue: 0,0:18:13.44,0:18:15.05,MainStyle,,0000,0000,0000,,I don't believe it.
+Dialogue: 0,0:18:15.05,0:18:18.05,MainStyle,,0000,0000,0000,,He must've been really shocked.
+Dialogue: 0,0:18:18.05,0:18:21.88,MainStyle,,0000,0000,0000,,He didn't talk at all afterwards.
+Dialogue: 0,0:18:21.88,0:18:24.28,MainStyle,,0000,0000,0000,,When we stopped at a service\Narea to use the restroom...
+Dialogue: 0,0:18:24.28,0:18:26.49,MainStyle,,0000,0000,0000,,...he looked out of it, and\Nhis eyes weren't focusing.
+Dialogue: 0,0:18:26.49,0:18:30.19,MainStyle,,0000,0000,0000,,We were so sorry for him,\Nwe didn't know what to say.
+Dialogue: 0,0:18:30.19,0:18:32.99,MainStyle,,0000,0000,0000,,I had a bad feeling.
+Dialogue: 0,0:18:32.99,0:18:36.22,MainStyle,,0000,0000,0000,,She's too cute to be Iketani's girl.
+Dialogue: 0,0:18:36.22,0:18:39.39,MainStyle,,0000,0000,0000,,After all, Road Racers don't need a girl.
+Dialogue: 0,0:18:39.39,0:18:43.24,MainStyle,,0000,0000,0000,,Lonely driver, Itsuki.\NThat's my motto.
+Dialogue: 0,0:18:43.24,0:18:46.39,MainStyle,,0000,0000,0000,,I hope the shock doesn't last too long.
+Dialogue: 0,0:18:55.59,0:18:58.32,MainStyle,,0000,0000,0000,,Kouichiro, phone call!
+Dialogue: 0,0:18:58.67,0:19:00.24,MainStyle,,0000,0000,0000,,I don't want to take it.
+Dialogue: 0,0:19:00.24,0:19:03.39,MainStyle,,0000,0000,0000,,Tell him I'm sleeping.\NIt must be Kenji anyway.
+Dialogue: 0,0:19:03.39,0:19:05.17,MainStyle,,0000,0000,0000,,It's a girl!
+Dialogue: 0,0:19:05.17,0:19:07.41,MainStyle,,0000,0000,0000,,Sato Mako!
+Dialogue: 0,0:19:16.81,0:19:19.36,MainStyle,,0000,0000,0000,,You said you wanted to talk.
+Dialogue: 0,0:19:21.36,0:19:24.88,MainStyle,,0000,0000,0000,,If you're making fun of me, please stop.
+Dialogue: 0,0:19:24.88,0:19:28.39,MainStyle,,0000,0000,0000,,No, I'm not making fun of you.
+Dialogue: 0,0:19:29.09,0:19:32.49,MainStyle,,0000,0000,0000,,I never thought that you'd be the\Ndriver of that incredible car.
+Dialogue: 0,0:19:34.08,0:19:40.26,MainStyle,,0000,0000,0000,,I saw your Sil-Eighty drifting at full speed.
+Dialogue: 0,0:19:40.26,0:19:42.54,MainStyle,,0000,0000,0000,,They say you're the fastest on Usui.
+Dialogue: 0,0:19:44.72,0:19:48.71,MainStyle,,0000,0000,0000,,If so, you could have told me.
+Dialogue: 0,0:19:49.26,0:19:50.37,MainStyle,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:19:51.06,0:19:53.39,MainStyle,,0000,0000,0000,,I didn't mean to lie to you.
+Dialogue: 0,0:19:53.39,0:19:55.56,MainStyle,,0000,0000,0000,,It was shocking for me, too.
+Dialogue: 0,0:19:55.56,0:19:59.82,MainStyle,,0000,0000,0000,,And I thought I should\Ntell you the truth...
+Dialogue: 0,0:19:59.82,0:20:01.29,MainStyle,,0000,0000,0000,,Truth?
+Dialogue: 0,0:20:03.67,0:20:07.49,MainStyle,,0000,0000,0000,,I'm... actually the quiet type.
+Dialogue: 0,0:20:07.49,0:20:08.43,MainStyle,,0000,0000,0000,,Quiet...?
+Dialogue: 0,0:20:08.43,0:20:12.75,MainStyle,,0000,0000,0000,,That's hard to believe, because you can\Nperform such a dynamic drift.
+Dialogue: 0,0:20:12.75,0:20:17.33,MainStyle,,0000,0000,0000,,You know how some people's personalities\Nchange once they get behind the wheel?
+Dialogue: 0,0:20:17.33,0:20:19.65,MainStyle,,0000,0000,0000,,I'm that type.
+Dialogue: 0,0:20:19.65,0:20:25.42,MainStyle,,0000,0000,0000,,When I drive fast, guys don't\Nsee me as a girl.
+Dialogue: 0,0:20:25.42,0:20:28.98,MainStyle,,0000,0000,0000,,So I thought I should quit.
+Dialogue: 0,0:20:28.98,0:20:30.48,MainStyle,,0000,0000,0000,,I've made up my mind.
+Dialogue: 0,0:20:31.94,0:20:35.35,MainStyle,,0000,0000,0000,,I'm quitting road racing this summer.
+Dialogue: 0,0:20:37.02,0:20:38.97,MainStyle,,0000,0000,0000,,For my last memory of this summer...
+Dialogue: 0,0:20:38.97,0:20:43.05,MainStyle,,0000,0000,0000,,...would you let me race against Akina's\NEight-Six on Usui's mountain pass?
+Dialogue: 0,0:20:44.26,0:20:46.38,MainStyle,,0000,0000,0000,,That's my wish.
+Dialogue: 0,0:20:46.38,0:20:49.47,MainStyle,,0000,0000,0000,,If you make my wish come true...
+Dialogue: 0,0:20:50.77,0:20:53.97,MainStyle,,0000,0000,0000,,...you can have my virginity.
+Dialogue: 0,0:20:55.54,0:20:58.55,MainStyle,,0000,0000,0000,,Wait a minute.\NDon't say such a thing!
+Dialogue: 0,0:20:58.55,0:21:00.20,MainStyle,,0000,0000,0000,,Am I not enough?
+Dialogue: 0,0:21:00.20,0:21:01.46,MainStyle,,0000,0000,0000,,It's not that.
+Dialogue: 0,0:21:01.46,0:21:06.49,MainStyle,,0000,0000,0000,,He's my friend, so I can't\Nmake a deal like that.
+Dialogue: 0,0:21:08.66,0:21:10.51,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}I understand.
+Dialogue: 0,0:21:10.51,0:21:15.56,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Her target was never me,\Nit was always Takumi.
+Dialogue: 0,0:21:15.56,0:21:17.05,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}It's obvious.
+Dialogue: 0,0:21:17.05,0:21:21.94,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Otherwise, a cute girl like her would\Nnever be interested in me.
+Dialogue: 0,0:21:26.45,0:21:30.36,MainStyle,,0000,0000,0000,,Okay, I'll see what I can do.
+Dialogue: 0,0:21:30.36,0:21:31.33,MainStyle,,0000,0000,0000,,Really?
+Dialogue: 0,0:21:31.33,0:21:33.79,MainStyle,,0000,0000,0000,,But don't misunderstand me.
+Dialogue: 0,0:21:33.79,0:21:38.38,MainStyle,,0000,0000,0000,,I'll cooperate, but not because\NI want something from you.
+Dialogue: 0,0:21:38.38,0:21:39.86,MainStyle,,0000,0000,0000,,Iketani...
+Dialogue: 0,0:21:39.86,0:21:44.32,MainStyle,,0000,0000,0000,,I just want to make your wish come true.
+Dialogue: 0,0:21:55.60,0:21:57.09,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}It's alright.
+Dialogue: 0,0:21:58.21,0:22:02.96,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Although it was only a short time,\NI was seriously in love with Mako.
+Dialogue: 0,0:22:04.19,0:22:07.59,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}As long as she's happy,\NI'll be satisfied.
+Dialogue: 0,0:22:15.00,0:22:19.15,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}People would call me a fool...
+Dialogue: 0,0:22:19.15,0:22:21.60,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}...but I really loved her.
+Dialogue: 0,0:22:22.44,0:22:26.83,MainStyle,,0000,0000,0000,,{\c&HA0A0A0&}Even though it was my misunderstanding,\NI really loved her.
+Dialogue: 0,0:22:38.14,0:22:43.80,Song,,0000,0000,0000,,Ai ni tsukarehate samayotte ta koro
+Dialogue: 0,0:22:44.22,0:22:50.54,Song,,0000,0000,0000,,Yokubou dake ni kararete miushinatteita
+Dialogue: 0,0:22:51.74,0:23:05.52,Song,,0000,0000,0000,,Kimagure na unmei wa mujaki na\Nhitomi ni miserate yuku
+Dialogue: 0,0:23:07.11,0:23:10.48,Song,,0000,0000,0000,,Sake bara no youni akaku
+Dialogue: 0,0:23:10.48,0:23:13.95,Song,,0000,0000,0000,,Tsuyoku tsuyoku kimo wo daite
+Dialogue: 0,0:23:13.95,0:23:20.91,Song,,0000,0000,0000,,Tatta hitotsu kono omoi wo shinjitsu da to ieru
+Dialogue: 0,0:23:20.91,0:23:25.78,Song,,0000,0000,0000,,Yorokobi wo kanadeyou
+Dialogue: 0,0:23:25.78,0:23:30.61,Song,,0000,0000,0000,,Kagayaku mirai e
+Dialogue: 0,0:23:45.32,0:23:52.72,Song,,0000,0000,0000,,Ah Kazoekirenai hodo tashikameaou
+Dialogue: 0,0:23:52.72,0:23:57.93,Song,,0000,0000,0000,,Jounetu yo eien e todoke
+Dialogue: 0,0:23:58.67,0:24:01.90,Song,,0000,0000,0000,,Sake bara no youni akaku
+Dialogue: 0,0:24:01.90,0:24:05.44,Song,,0000,0000,0000,,Tsuyoku tsuyoku dakishimete
+Dialogue: 0,0:24:05.44,0:24:12.33,Song,,0000,0000,0000,,Tatoe nani wo ushinattemo kono ude wo hanasanai
+Dialogue: 0,0:24:12.33,0:24:17.21,Song,,0000,0000,0000,,Utsukushiku Karen ni sake
+Dialogue: 0,0:24:17.21,0:24:22.65,Song,,0000,0000,0000,,Kiseki no hana yo
+Dialogue: 1,0:22:30.30,0:22:32.98,Credits,,0000,0000,0000,,{\fad(150,120)}{\a6}a remake standalone sub based on               \h\N\h               fansubfiles{\b0}{\i1}anime{\i0}'s{\b1} release
+Dialogue: 1,0:22:33.99,0:22:38.00,Credits,,0000,0000,0100,,{\fad(150,0)}{\a1}Original translations and\Nscripts by Central Anime
+Dialogue: 1,0:22:39.12,0:22:42.16,Credits,,0000,0000,0000,,{\fad(150,120)}{\a7}Repro sub by FXM-ID Project II
+Dialogue: 1,0:22:55.31,0:23:00.71,Credits,,0350,0000,0330,,{\fad(150,120)}By Fans for the Fans!\NNot for Sale or Rent!
+Dialogue: 1,0:23:06.36,0:23:13.95,Credits,,0000,0000,0402,,{\a1\fs18\pos(30,62)}Two faces were given to the Nissan S13 series (for the Japanese market):
+Dialogue: 1,0:23:06.36,0:23:13.95,Credits,,0000,0000,0379,,{\fs18\a1\c&H1AFAFF&}Silvia:{\c&HF2F2F2&} earlier model with a coupe body, in production only till 1993\N\h          \hwith fixed headlights (like Iketani's)
+Dialogue: 2,0:23:06.36,0:23:13.95,Credits,,0000,0000,0344,,{\fs18\a1\c&H1AFAFF&}180SX:{\c&HF2F2F2&} comes with a hatchback body with flip up headlights,\N\h           \hexported on a large scale, in many variations
+Dialogue: 1,0:23:13.95,0:23:21.67,Credits,,0000,0000,0370,,{\fad(0,120)}{\fs18\a1}Nissan released a limited production model with the\Nfront end of {\c&H1AFAFF&}Sil{\c&HF2F2F2&}via and the rear end of the {\c&H1AFAFF&}180{\c&HF2F2F2&}SX\N(hence named {\c&H1AFAFF&}Sil-Eighty{\c&HF2F2F2&}). These cars are rare and\Nprized among S13 fans.
+Dialogue: 0,0:24:30.42,0:24:34.16,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}Mako, how could a cute girl\Nlike you go after Iketani?
+Dialogue: 0,0:24:34.16,0:24:36.01,MainStyle,,0000,0000,0000,,Even if you ask me why...
+Dialogue: 0,0:24:36.01,0:24:38.51,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}And that shocking comment...!
+Dialogue: 0,0:24:38.51,0:24:40.95,MainStyle,,0000,0000,0000,,I guess it was too bold...
+Dialogue: 0,0:24:40.95,0:24:43.06,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}There are so many handsome guys!
+Dialogue: 0,0:24:43.06,0:24:45.71,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}But why?  How can Iketani be the one?!
+Dialogue: 0,0:24:45.71,0:24:49.73,MainStyle,,0000,0000,0000,,Even if you ask me...\NAfter all, Iketani is...
+Dialogue: 0,0:24:49.73,0:24:52.10,MainStyle,,0000,0000,0000,,{\c&H1AFAFF&}I don't understand, no matter\Nhow hard I try...
+Dialogue: 0,0:24:53.20,0:24:56.32,MainStyle,,0000,0000,0000,,Next time on Initial D:\N"Sudden Death Death Match."
+Dialogue: 0,0:24:56.32,0:24:58.54,MainStyle,,0000,0000,0000,,Don't miss it.\NSorry, I...{I guess she thought she screwed up.}
+Dialogue: 1,0:24:55.05,0:24:59.89,MainStyle,,0000,0100,0407,,Initial
+Dialogue: 1,0:24:55.05,0:24:59.89,MainStyle,,0000,0430,0260,,Next Time:
+Dialogue: 1,0:24:55.05,0:24:59.89,MainStyle,,0050,0000,0190,,Sudden Death Death Match
