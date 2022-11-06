@@ -36,6 +36,10 @@ Style: Signs,Arial Black,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Style: Signs-alt,Arial,26,&H00FFFFFF,&H000000FF,&H23000000,&H96000000,0,0,0,0,90,110,0,0,1,0,0,8,10,10,25,1
 Style: Romaji,Arial Black,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,115,0,0,1,2,0,2,10,10,20,1
 Style: Tradução,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,80,100,0,0,1,1,0,2,10,10,20,1
+Style: OP2_kanji,T_No1,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: OP2_romaji,Segoe Print,44,&H80000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: ED2_kanji_top,EPSON 太明朝体Ｂ,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,40,1
+Style: ED2_romaji_top,EPSON 行書体Ｍ,30,&H00FFFFFF,&H000000FF,&H40400080,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -279,3 +283,87 @@ Dialogue: 0,0:24:39.49,0:24:41.25,Padrão,,0,0,0,,{\i1}Vença!{\i0}
 Dialogue: 0,0:24:43.22,0:24:46.80,Padrão,,0,0,0,,{\i1}Chegando à conclusão{\i0}\N{\i1}dessa corrida emocionante...{\i0}
 Dialogue: 0,0:24:46.80,0:24:51.90,Padrão,,0,0,0,,{\i1}No próximo episódio de Initial D: "A Nova Lenda das Corridas!"{\i0}
 Dialogue: 0,0:24:51.90,0:24:53.89,Padrão,,0,0,0,,{\i1}Não percam!{\i0}
+
+Comment: 0,0:24:53.40,0:24:55.10,Padrão,,0,0,0,,/** End of Original script **/
+
+Dialogue: 0,0:00:29.68,0:00:31.61,OP2_romaji,,0,0,0,,{\blur3.5}kogoeta machi ni
+Dialogue: 0,0:00:31.62,0:00:33.35,OP2_romaji,,0,0,0,,{\blur3.5}giniro shita kemuri
+Dialogue: 0,0:00:33.35,0:00:37.05,OP2_romaji,,0,0,0,,{\blur3.5}{\t(818,851,\blur3.5\3c&H00FF00&)}{\t(1518,1518,\blur3.5\3c&HFFFFFF&)}{\t(3520,3520,\blur3.5\3c&H00FF00&)}misugita yume no daishou
+Dialogue: 0,0:00:37.05,0:00:38.88,OP2_romaji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(818,821,\blur3.5\3c&HFFFFFF&)}kogoeta karada
+Dialogue: 0,0:00:38.89,0:00:40.78,OP2_romaji,,0,0,0,,{\blur3.5}furikirenai omoi
+Dialogue: 0,0:00:40.78,0:00:44.45,OP2_romaji,,0,0,0,,{\blur3.5}AKUSERU funde gomakasu
+Dialogue: 0,0:00:44.45,0:00:47.73,OP2_romaji,,0,0,0,,{\blur3.5}yoru ni kowareta mama
+Dialogue: 0,0:00:47.74,0:00:51.81,OP2_romaji,,0,0,0,,{\blur3.5}shisen tsuyoku togarasete
+Dialogue: 0,0:00:51.81,0:00:55.22,OP2_romaji,,0,0,0,,{\blur3.5}dareno kimagure kara
+Dialogue: 0,0:00:55.23,0:00:59.20,OP2_romaji,,0,0,0,,{\blur3.5}sekai sae mo owarisoude
+Dialogue: 0,0:00:59.20,0:01:01.15,OP2_romaji,,0,0,0,,{\blur3.5}{\t(426,426,\blur3.5\3c&H00FF00&)}{\t(527,527,\blur3.5\3c&HFFFFFF&)}{\t(660,660,\blur3.5\3c&H00FF00&)}{\t(827,827,\blur3.5\3c&HFFFFFF&)}{\t(1227,1227,\blur3.5\3c&H00FF00&)}{\t(1594,1594,\blur3.5\3c&HFFFFFF&)}“BREAK IN2 THE NITE”\nit's that time.
+Dialogue: 0,0:01:01.15,0:01:04.73,OP2_romaji,,0,0,0,,{\blur3.5}obieta me wo shite lost in the night
+Dialogue: 0,0:01:04.73,0:01:08.39,OP2_romaji,,0,0,0,,{\blur3.5}ochiteku yume ni dakareru
+Dialogue: 0,0:01:08.39,0:01:12.15,OP2_romaji,,0,0,0,,{\blur3.5}kodoku ga kowakute missin' my heart
+Dialogue: 0,0:01:12.15,0:01:15.86,OP2_romaji,,0,0,0,,{\blur3.5}{\t(2558,2558,\blur3.5\3c&H00FF00&)}jibun sae mo kizu tsukete
+Dialogue: 0,0:01:15.86,0:01:19.54,OP2_romaji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(183,183,\blur3.5\3c&HFFFFFF&)}taoreru kurai ni Love me so much
+Dialogue: 0,0:01:19.54,0:01:23.23,OP2_romaji,,0,0,0,,{\blur3.5}subete wo suttee anata wo
+Dialogue: 0,0:01:23.23,0:01:26.89,OP2_romaji,,0,0,0,,{\blur3.5}ai suru koto sae dekitara
+Dialogue: 0,0:01:26.89,0:01:31.13,OP2_romaji,,0,0,0,,{\blur3.5}kitto sunao ni naresou
+Dialogue: 0,0:00:29.68,0:00:31.61,OP2_kanji,,0,0,0,,{\blur3.5}凍えた街に
+Dialogue: 0,0:00:31.62,0:00:33.35,OP2_kanji,,0,0,0,,{\blur3.5}銀色した煙
+Dialogue: 0,0:00:33.35,0:00:37.05,OP2_kanji,,0,0,0,,{\blur3.5}{\t(818,851,\blur3.5\3c&H00FF00&)}{\t(1518,1518,\blur3.5\3c&HFFFFFF&)}{\t(3520,3520,\blur3.5\3c&H00FF00&)}見過ぎた夢の代償
+Dialogue: 0,0:00:37.05,0:00:38.88,OP2_kanji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(818,821,\blur3.5\3c&HFFFFFF&)}凍えた体 
+Dialogue: 0,0:00:38.89,0:00:40.78,OP2_kanji,,0,0,0,,{\blur3.5}振り切れない想い
+Dialogue: 0,0:00:40.78,0:00:44.45,OP2_kanji,,0,0,0,,{\blur3.5}アクセル踏んで誤魔化す
+Dialogue: 0,0:00:44.45,0:00:47.73,OP2_kanji,,0,0,0,,{\blur3.5}夜に壊れたまま
+Dialogue: 0,0:00:47.74,0:00:51.81,OP2_kanji,,0,0,0,,{\blur3.5}視線強くトガらせて
+Dialogue: 0,0:00:51.81,0:00:55.22,OP2_kanji,,0,0,0,,{\blur3.5}誰のきまぐれから
+Dialogue: 0,0:00:55.23,0:00:59.20,OP2_kanji,,0,0,0,,{\blur3.5}世界さえも終わりそうで 
+Dialogue: 0,0:00:59.20,0:01:01.15,OP2_kanji,,0,0,0,,{\blur3.5}{\t(426,426,\blur3.5\3c&H00FF00&)}{\t(527,527,\blur3.5\3c&HFFFFFF&)}{\t(660,660,\blur3.5\3c&H00FF00&)}{\t(827,827,\blur3.5\3c&HFFFFFF&)}{\t(1227,1227,\blur3.5\3c&H00FF00&)}{\t(1594,1594,\blur3.5\3c&HFFFFFF&)}“BREAK IN2 THE NITE” it's the time
+Dialogue: 0,0:01:01.15,0:01:04.73,OP2_kanji,,0,0,0,,{\blur3.5}怯えた目をしてlost in the night
+Dialogue: 0,0:01:04.73,0:01:08.39,OP2_kanji,,0,0,0,,{\blur3.5}堕ちてく夢に抱かれる
+Dialogue: 0,0:01:08.39,0:01:12.15,OP2_kanji,,0,0,0,,{\blur3.5}孤独が怖くてmissin' my heart
+Dialogue: 0,0:01:12.15,0:01:15.86,OP2_kanji,,0,0,0,,{\blur3.5}{\t(2558,2558,\blur3.5\3c&H00FF00&)}自分さえも傷つけて 
+Dialogue: 0,0:01:15.86,0:01:19.54,OP2_kanji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(183,183,\blur3.5\3c&HFFFFFF&)}倒れる位にLove me so much
+Dialogue: 0,0:01:19.54,0:01:23.23,OP2_kanji,,0,0,0,,{\blur3.5}全てを捨ててあなたを 
+Dialogue: 0,0:01:23.23,0:01:26.89,OP2_kanji,,0,0,0,,{\blur3.5}愛する事さえできたら
+Dialogue: 0,0:01:26.89,0:01:31.13,OP2_kanji,,0,0,0,,{\blur3.5}きっと素直になれそう 
+
+Dialogue: 0,0:22:33.42,0:22:35.73,ED2_romaji_top,,0,0,0,,{\blur4.5}ai ni tsukarehate
+Dialogue: 0,0:22:35.73,0:22:39.08,ED2_romaji_top,,0,0,0,,{\blur4.5}samayotte ta koro
+Dialogue: 0,0:22:39.50,0:22:41.97,ED2_romaji_top,,0,0,0,,{\blur4.5}yokubou dake ni
+Dialogue: 0,0:22:41.97,0:22:45.82,ED2_romaji_top,,0,0,0,,{\blur4.5}kararete miushinatteita
+Dialogue: 0,0:22:47.02,0:22:53.55,ED2_romaji_top,,0,0,0,,{\blur4.5}kimagure na unmei wa
+Dialogue: 0,0:22:53.55,0:23:00.80,ED2_romaji_top,,0,0,0,,{\blur4.5}mujaki na hitomi ni miserate yuku
+Dialogue: 0,0:23:02.39,0:23:05.76,ED2_romaji_top,,0,0,0,,{\blur4.5}sake bara no youni akaku
+Dialogue: 0,0:23:05.76,0:23:07.53,ED2_romaji_top,,0,0,0,,{\blur4.5}tsuyoku tsuyoku
+Dialogue: 0,0:23:07.53,0:23:09.23,ED2_romaji_top,,0,0,0,,{\blur4.5}kimo wo daite
+Dialogue: 0,0:23:09.23,0:23:13.04,ED2_romaji_top,,0,0,0,,{\blur4.5}tatta hitotsu kono omoi wo
+Dialogue: 0,0:23:13.04,0:23:16.19,ED2_romaji_top,,0,0,0,,{\blur4.5}shinjitsu da to ieru
+Dialogue: 0,0:23:16.19,0:23:21.06,ED2_romaji_top,,0,0,0,,{\blur4.5}yorokobi wo kanadeyou...
+Dialogue: 0,0:23:21.06,0:23:27.75,ED2_romaji_top,,0,0,0,,{\blur4.5}kagayaku mirai he
+Dialogue: 0,0:23:40.60,0:23:44.47,ED2_romaji_top,,0,0,0,,{\blur4.5}ah! kazoe kirenai hodo
+Dialogue: 0,0:23:44.47,0:23:48.00,ED2_romaji_top,,0,0,0,,{\blur4.5}tashika me aou
+Dialogue: 0,0:23:48.00,0:23:53.21,ED2_romaji_top,,0,0,0,,{\blur4.5}jounetsu yo eien he todoke
+Dialogue: 0,0:23:53.95,0:23:57.18,ED2_romaji_top,,0,0,0,,{\blur4.5}sake bara no you ni akaku
+Dialogue: 0,0:23:57.18,0:23:59.02,ED2_romaji_top,,0,0,0,,{\blur4.5}tsuyoku tsuyoku
+Dialogue: 0,0:23:59.02,0:24:00.72,ED2_romaji_top,,0,0,0,,{\blur4.5}dakishimete
+Dialogue: 0,0:24:00.72,0:24:04.22,ED2_romaji_top,,0,0,0,,{\blur4.5}tatoe nani wo ushinattemo
+Dialogue: 0,0:24:04.22,0:24:07.61,ED2_romaji_top,,0,0,0,,{\blur4.5}{\a1}{\fs30}kono ude wo hanasanai
+Dialogue: 0,0:24:07.61,0:24:12.49,ED2_romaji_top,,0,0,0,,{\blur4.5}utsukushiku karen ni sake...
+Dialogue: 0,0:24:12.49,0:24:17.93,ED2_romaji_top,,0,0,0,,{\blur4.5}kiseki no HANA yo!
+Dialogue: 0,0:22:33.42,0:22:39.08,ED2_kanji_top,,0,0,0,,{Ai ni tsukarehate samayotte ta koro}{\blur4.5}愛に疲れ果て彷徨ってたごろ
+Dialogue: 0,0:22:39.50,0:22:45.82,ED2_kanji_top,,0,0,0,,{Yokubou dake ni kararete miushinatteita}{\blur4.5}欲望だけにかられて 見失っていた
+Dialogue: 0,0:22:47.02,0:22:53.55,ED2_kanji_top,,0,0,0,,{\blur4.5}気まぐれな運命は
+Dialogue: 0,0:22:53.55,0:23:00.80,ED2_kanji_top,,0,0,0,,{\blur4.5}無邪気な瞳に魅せられていく
+Dialogue: 0,0:23:02.39,0:23:05.76,ED2_kanji_top,,0,0,0,,{Sake bara no youni akaku}{\blur4.5}咲け 薔薇のように赤く
+Dialogue: 0,0:23:05.76,0:23:09.23,ED2_kanji_top,,0,0,0,,{Tsuyoku tsuyoku kimo wo daite}{\blur4.5}強く 強く キミを抱いて
+Dialogue: 0,0:23:09.23,0:23:16.19,ED2_kanji_top,,0,0,0,,{Tatta hitotsu kono omoi wo shinjitsu da to ieru}{\blur4.5}たった ひとつ この思いを 真実だと言える
+Dialogue: 0,0:23:16.19,0:23:21.06,ED2_kanji_top,,0,0,0,,{Yorokobi wo kanadeyou}{\blur4.5}よろこびを 奏でよう・・・
+Dialogue: 0,0:23:21.06,0:23:27.75,ED2_kanji_top,,0,0,0,,{Kagayaku mirai e}{\blur4.5}輝く未来へ
+Dialogue: 0,0:23:40.60,0:23:44.47,ED2_kanji_top,,0,0,0,,{\blur4.5}Ah!数えきれない程
+Dialogue: 0,0:23:44.47,0:23:48.00,ED2_kanji_top,,0,0,0,, {\blur4.5}たしかめあおう
+Dialogue: 0,0:23:48.00,0:23:53.21,ED2_kanji_top,,0,0,0,,{Jounetu yo eien e todoke}{\blur4.5}情熱よ 永遠へ届け
+Dialogue: 0,0:23:53.95,0:23:57.18,ED2_kanji_top,,0,0,0,,{Sake bara no youni akaku}{\blur4.5}咲け 薔薇のように赤く
+Dialogue: 0,0:23:57.18,0:23:59.02,ED2_kanji_top,,0,0,0,,{\blur4.5}強く 強く
+Dialogue: 0,0:23:59.02,0:24:00.72,ED2_kanji_top,,0,0,0,,{\blur4.5}抱きしめて
+Dialogue: 0,0:24:00.72,0:24:04.22,ED2_kanji_top,,0,0,0,,{\blur4.5}例え 何を 失っても
+Dialogue: 0,0:24:04.22,0:24:07.61,ED2_kanji_top,,0,0,0,,{\blur4.5}この腕を離さない
+Dialogue: 0,0:24:07.61,0:24:12.49,ED2_kanji_top,,0,0,0,,{Utsukushiku Karen ni sake}{\blur4.5}美しく 可憐に咲け・・・
+Dialogue: 0,0:24:12.49,0:24:17.93,ED2_kanji_top,,0,0,0,,{Kiseki no hana yo}{\blur4.5}奇跡の薔薇よ！

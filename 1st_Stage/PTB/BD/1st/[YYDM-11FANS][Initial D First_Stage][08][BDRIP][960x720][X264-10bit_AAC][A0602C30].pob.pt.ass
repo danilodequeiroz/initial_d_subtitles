@@ -33,131 +33,134 @@ Style: Signs,Arial Black,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Style: Signs-alt,Arial,26,&H00FFFFFF,&H000000FF,&H23000000,&H96000000,0,0,0,0,90,110,0,0,1,0,0,8,10,10,25,1
 Style: Romaji,Arial Black,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,115,0,0,1,2,0,2,10,10,20,1
 Style: Tradução,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,80,100,0,0,1,1,0,2,10,10,20,1
+Style: OP1_kanji,T_No1,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,35,1
+Style: OP1_romaji,aquafont,28,&H00B19D75,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,35,1
+Style: ED1_kanji,aquafont,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+Style: ED1_romaji,Segoe Print,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:29.84,0:01:31.84,Romaji,,0,0,0,,
 Comment: 0,0:01:29.84,0:01:31.84,Romaji,,0,0,0,,
 Comment: 0,0:01:43.62,0:01:45.62,Padrão,,0,0,0,,
-
-Dialogue: 0,0:00:22.44,0:00:25.08,Romaji,,0,0,0,,Information byousoku de tsutawaru jidai
-Dialogue: 0,0:00:25.08,0:00:27.45,Romaji,,0,0,0,,demo Choice no shikata ga wakaranai
-Dialogue: 0,0:00:27.45,0:00:28.48,Romaji,,0,0,0,,Money can't buy my love
-Dialogue: 0,0:00:28.48,0:00:31.10,Romaji,,0,0,0,,nante NONKI na YATSU ni ha RARIAATO sankai
-Dialogue: 0,0:00:31.10,0:00:33.20,Romaji,,0,0,0,,MANYUARU douri ni tada dakiai
-Dialogue: 0,0:00:33.20,0:00:35.20,Romaji,,0,0,0,,ai ga nai koto ni kigatsukanai
-Dialogue: 0,0:00:35.20,0:00:37.50,Romaji,,0,0,0,,chitsusoku suru mae ni sakebouze Ho!!!
-Dialogue: 0,0:00:37.50,0:00:38.80,Romaji,,0,0,0,,In the midnight dream
-Dialogue: 0,0:00:38.80,0:00:42.82,Romaji,,0,0,0,,iki sae tsukenai nemurenai machi
-Dialogue: 0,0:00:42.82,0:00:46.40,Romaji,,0,0,0,,suki mo misezuni warai atte
-Dialogue: 0,0:00:46.40,0:00:50.88,Romaji,,0,0,0,,uso sae Safety HONTO ga Empty
-Dialogue: 0,0:00:50.88,0:00:55.06,Romaji,,0,0,0,,abunai gurai ni wanna shut and break out!
-Dialogue: 0,0:00:55.06,0:00:56.66,Romaji,,0,0,0,,(Now we gotta start  Let's get move!!)
-Dialogue: 0,0:00:56.66,0:00:58.72,Romaji,,0,0,0,,Let's move into the brand new world
-Dialogue: 0,0:00:58.72,0:01:00.92,Romaji,,0,0,0,,Let's dive into the brand new trip
-Dialogue: 0,0:01:00.92,0:01:04.42,Romaji,,0,0,0,,hiroi sekai ni obieteru
-Dialogue: 0,0:01:04.42,0:01:06.72,Romaji,,0,0,0,,hajimatta bakari no
-Dialogue: 0,0:01:06.72,0:01:08.90,Romaji,,0,0,0,,Now we go full speed and funky beat
-Dialogue: 0,0:01:08.90,0:01:11.84,Romaji,,0,0,0,,kitto kagayaku around the world
-Dialogue: 0,0:01:12.30,0:01:13.28,Romaji,,0,0,0,,Trip to the world
-Dialogue: 0,0:01:13.28,0:01:15.10,Romaji,,0,0,0,,Yo! Here we go unknown world e to
-Dialogue: 0,0:01:15.10,0:01:16.88,Romaji,,0,0,0,,umareta bakari no tabibito
-Dialogue: 0,0:01:16.88,0:01:19.20,Romaji,,0,0,0,,narenai ashidori mo mata aikyou
-Dialogue: 0,0:01:19.20,0:01:20.98,Romaji,,0,0,0,,KIMERU toko dake BASHItto!
-Dialogue: 0,0:01:20.98,0:01:22.64,Romaji,,0,0,0,,So many people in this world
-Dialogue: 0,0:01:22.64,0:01:25.04,Romaji,,0,0,0,,toki ni chuushou tokamonai wake ja nai kedo
-Dialogue: 0,0:01:25.04,0:01:26.76,Romaji,,0,0,0,,SHIMANNAI toko ha Warp shite
-Dialogue: 0,0:01:26.76,0:01:28.40,Romaji,,0,0,0,,kou suji dake ha tooshite ikiteru
-Dialogue: 0,0:01:28.40,0:01:29.84,Romaji,,0,0,0,,That's our law!
-Dialogue: 0,0:00:22.44,0:00:25.08,Tradução,,0,0,0,,Informação, nesta era ela viaja rápido
-Dialogue: 0,0:00:25.08,0:00:27.45,Tradução,,0,0,0,,mas você não sabe que escolha tomar
-Dialogue: 0,0:00:27.45,0:00:28.48,Tradução,,0,0,0,,"Dinheiro não pode comprar meu amor"
-Dialogue: 0,0:00:28.48,0:00:31.10,Tradução,,0,0,0,,Quem diz isso tem laços três vezes mais fortes
-Dialogue: 0,0:00:31.10,0:00:33.20,Tradução,,0,0,0,,Seguindo o manual, vocês só se abraçam
-Dialogue: 0,0:00:33.20,0:00:35.20,Tradução,,0,0,0,,não percebem que não tem amor
-Dialogue: 0,0:00:35.20,0:00:37.50,Tradução,,0,0,0,,Antes que se sufoque, vamos gritar Ho!!!
-Dialogue: 0,0:00:37.50,0:00:38.80,Tradução,,0,0,0,,No sonho da meia-noite
-Dialogue: 0,0:00:38.80,0:00:42.82,Tradução,,0,0,0,,Não se consegue nem respirar, nesta cidade que não dorme
-Dialogue: 0,0:00:42.82,0:00:46.40,Tradução,,0,0,0,,Nunca mostrando nenhuma fraqueza, mas sorrindo
-Dialogue: 0,0:00:46.40,0:00:50.88,Tradução,,0,0,0,,Mentiras são segurança, verdades são vazias
-Dialogue: 0,0:00:50.88,0:00:55.06,Tradução,,0,0,0,,No limite do perigo, eu quero gritar e enloquecer
-Dialogue: 0,0:00:55.06,0:00:56.66,Tradução,,0,0,0,,(Agora temos que começar, vamos nessa!)
-Dialogue: 0,0:00:56.66,0:00:58.72,Tradução,,0,0,0,,Vamos mudar para um mundo novo
-Dialogue: 0,0:00:58.72,0:01:00.92,Tradução,,0,0,0,,Vamos mergulhar em uma nova viagem
-Dialogue: 0,0:01:00.92,0:01:04.42,Tradução,,0,0,0,,Assustados pelo grande mundo
-Dialogue: 0,0:01:04.42,0:01:06.72,Tradução,,0,0,0,,Acabou de começar
-Dialogue: 0,0:01:06.72,0:01:08.90,Tradução,,0,0,0,,Agora vamos a velocidade máxima, seguindo a batida
-Dialogue: 0,0:01:08.90,0:01:11.84,Tradução,,0,0,0,,Tenho certeza que brilharemos ao redor do mundo
-Dialogue: 0,0:01:12.30,0:01:13.28,Tradução,,0,0,0,,Viagem para o mundo
-Dialogue: 0,0:01:13.28,0:01:15.10,Tradução,,0,0,0,,Ei! Aqui vamos nós, para o mundo desconhecido
-Dialogue: 0,0:01:15.10,0:01:16.88,Tradução,,0,0,0,,Somos viajantes recém-nascidos!
-Dialogue: 0,0:01:16.88,0:01:19.20,Tradução,,0,0,0,,A caminhada que não estamos acostumados também é charmosa
-Dialogue: 0,0:01:19.20,0:01:20.98,Tradução,,0,0,0,,O lugar para onde você quer ir está logo aos seus pés!
-Dialogue: 0,0:01:20.98,0:01:22.64,Tradução,,0,0,0,,Tantas pessoas neste mundo
-Dialogue: 0,0:01:22.64,0:01:25.04,Tradução,,0,0,0,,Não é como se não houvesse uma traição de vez em quando
-Dialogue: 0,0:01:25.04,0:01:26.76,Tradução,,0,0,0,,Mas vamos pular essas coisas sem sentido
-Dialogue: 0,0:01:26.76,0:01:28.40,Tradução,,0,0,0,,E seguir em frente para nossa razão de viver
-Dialogue: 0,0:01:28.40,0:01:29.84,Tradução,,0,0,0,,Essa é nossa lei!
-Dialogue: 0,0:22:42.06,0:22:45.18,Romaji,,0,0,0,,My pride says "You gotta be wild & tough"
-Dialogue: 0,0:22:45.18,0:22:47.18,Romaji,,0,0,0,,sou  tanin ha kaizai shinai
-Dialogue: 0,0:22:47.18,0:22:49.08,Romaji,,0,0,0,,never stop  tomari takunai
-Dialogue: 0,0:22:49.08,0:22:50.96,Romaji,,0,0,0,,gisei ni natta ai ga cry shite mo
-Dialogue: 0,0:22:50.96,0:22:52.72,Romaji,,0,0,0,,Peak mezashite sweep the winding street
-Dialogue: 0,0:22:52.72,0:22:54.94,Romaji,,0,0,0,,Beep beep! keikoku oto ha so cheap
-Dialogue: 0,0:22:54.94,0:22:56.54,Romaji,,0,0,0,,sheep-tachi ha michi o akero
-Dialogue: 0,0:22:56.54,0:22:58.74,Romaji,,0,0,0,,Cos I'm never gonna stop streak my dream
-Dialogue: 0,0:22:58.74,0:23:02.70,Romaji,,0,0,0,,Easy na motivation  subete ha simulation
-Dialogue: 0,0:23:02.70,0:23:06.64,Romaji,,0,0,0,,nigete mitatte doko demo safety zone
-Dialogue: 0,0:23:06.64,0:23:10.66,Romaji,,0,0,0,,nani ka o te ni irete  nani ka o wasureteku
-Dialogue: 0,0:23:10.66,0:23:14.18,Romaji,,0,0,0,,sekai ga kowarete mo kawaranai
-Dialogue: 0,0:23:14.60,0:23:22.30,Romaji,,0,0,0,,Beasty shout dare no te ni sae oenai
-Dialogue: 0,0:23:22.30,0:23:30.10,Romaji,,0,0,0,,hageshii yume jikan sae mo ima koeteku
-Dialogue: 0,0:23:30.10,0:23:34.30,Romaji,,0,0,0,,Rage your dream yami o hari saiteiku
-Dialogue: 0,0:23:34.30,0:23:36.22,Romaji,,0,0,0,,Like a streak to the peak
-Dialogue: 0,0:23:36.22,0:23:42.26,Romaji,,0,0,0,,sekaijuu no kogoe kitta yoru o keshiteku
-Dialogue: 0,0:23:42.26,0:23:45.84,Romaji,,0,0,0,,Rage your dream michi o hiraiteku
-Dialogue: 0,0:23:46.30,0:23:49.04,Romaji,,0,0,0,,Di-ding dang another round, never slowdown
-Dialogue: 0,0:23:49.04,0:23:50.90,Romaji,,0,0,0,,KONMA ZERO ICHI byou de Knock down
-Dialogue: 0,0:23:50.90,0:23:53.26,Romaji,,0,0,0,,yoin nokoshi kiete kou to the next town
-Dialogue: 0,0:23:53.26,0:23:55.14,Romaji,,0,0,0,,hokori mau  haishachi ni hau
-Dialogue: 0,0:23:55.14,0:23:56.80,Romaji,,0,0,0,,rikutsu dake no NOOGAKI-tachi
-Dialogue: 0,0:23:56.80,0:23:58.80,Romaji,,0,0,0,,jama KUSAI kara SHIKATO shite ikou
-Dialogue: 0,0:23:58.80,0:24:00.84,Romaji,,0,0,0,,Streaker satteiku street no mukou
-Dialogue: 0,0:24:00.84,0:24:02.24,Romaji,,0,0,0,,Something they would know
-Dialogue: 0,0:24:02.24,0:24:06.22,Romaji,,0,0,0,,Rage your dream tsudzuku hatenai michi o
-Dialogue: 0,0:24:06.22,0:24:10.26,Romaji,,0,0,0,,ai mo kakou mo furimukazu
-Dialogue: 0,0:24:10.26,0:24:14.20,Romaji,,0,0,0,,yukeru anata kagayaiteiru
-Dialogue: 0,0:24:14.20,0:24:18.92,Romaji,,0,0,0,,Rage your dream ima o ikiteiru
-Dialogue: 0,0:22:42.06,0:22:45.18,Tradução,,0,0,0,,Meu orgulho diz "você tem que ser selvagem e forte"
-Dialogue: 0,0:22:45.18,0:22:47.18,Tradução,,0,0,0,,Assim ninguém se mete
-Dialogue: 0,0:22:47.18,0:22:49.08,Tradução,,0,0,0,,Nunca pare, eu não quero parar
-Dialogue: 0,0:22:49.08,0:22:50.96,Tradução,,0,0,0,,Mesmo se você chorar por causa de um amor sacrificado
-Dialogue: 0,0:22:50.96,0:22:52.72,Tradução,,0,0,0,,Almeje o topo, limpe a rua espiral
-Dialogue: 0,0:22:52.72,0:22:54.94,Tradução,,0,0,0,,Beep beep! O toque é tão brega
-Dialogue: 0,0:22:54.94,0:22:56.54,Tradução,,0,0,0,,As ovelhas vão abrir o caminho
-Dialogue: 0,0:22:56.54,0:22:58.74,Tradução,,0,0,0,,porque eu nunca vou parar. Risque meu sonho
-Dialogue: 0,0:22:58.74,0:23:02.70,Tradução,,0,0,0,,Motivação fácil é uma completa simulação
-Dialogue: 0,0:23:02.70,0:23:06.64,Tradução,,0,0,0,,Você tentou fugir, mas nenhum lugar é uma zona segura
-Dialogue: 0,0:23:06.64,0:23:10.66,Tradução,,0,0,0,,Algo está em sua posse e algo está esquecido
-Dialogue: 0,0:23:10.66,0:23:14.18,Tradução,,0,0,0,,Mesmo se o mundo acabar, isso nunca muda
-Dialogue: 0,0:23:14.60,0:23:22.30,Tradução,,0,0,0,,Rainha do grito, ninguém pode te tocar
-Dialogue: 0,0:23:22.30,0:23:30.10,Tradução,,0,0,0,,Agora atravesse o tempo para chegar em um sonho intenso
-Dialogue: 0,0:23:30.10,0:23:34.30,Tradução,,0,0,0,,Assole seu sonho, corte as trevas
-Dialogue: 0,0:23:34.30,0:23:36.22,Tradução,,0,0,0,,Como um risco para o topo
-Dialogue: 0,0:23:36.22,0:23:42.26,Tradução,,0,0,0,,Apague todas trevas congelada do mundo
-Dialogue: 0,0:23:42.26,0:23:45.84,Tradução,,0,0,0,,Assole seu sonho, e abra o caminho
-Dialogue: 0,0:23:46.30,0:23:49.04,Tradução,,0,0,0,,Di-ding dang, outro round, nunca desacelere
-Dialogue: 0,0:23:49.04,0:23:50.90,Tradução,,0,0,0,,Um nocaute de .01 segundo
-Dialogue: 0,0:23:50.90,0:23:53.26,Tradução,,0,0,0,,Reverberações deixadas para trás, desapareça para próxima cidade
-Dialogue: 0,0:23:53.26,0:23:55.14,Tradução,,0,0,0,,Os perdedores ficam comendo poeira
-Dialogue: 0,0:23:55.14,0:23:56.80,Tradução,,0,0,0,,Vamos ignorar as restrições da lógica
-Dialogue: 0,0:23:56.80,0:23:58.80,Tradução,,0,0,0,,Porque elas são um saco
-Dialogue: 0,0:23:58.80,0:24:00.84,Tradução,,0,0,0,,Um nudista passa correndo na rua
-Dialogue: 0,0:24:00.84,0:24:02.24,Tradução,,0,0,0,,Algo que eles saberão
-Dialogue: 0,0:24:02.24,0:24:06.22,Tradução,,0,0,0,,Assole seu sonho, continue na estrada interminável
-Dialogue: 0,0:24:06.22,0:24:10.26,Tradução,,0,0,0,,Não olha para trás em seu amor ou passado
-Dialogue: 0,0:24:10.26,0:24:14.20,Tradução,,0,0,0,,Siga em frente e você brilhará forte
-Dialogue: 0,0:24:14.20,0:24:18.92,Tradução,,0,0,0,,Assole seu sonho, você está vivendo o agora
+Comment: 0,0:00:22.44,0:00:25.08,Romaji,,0,0,0,,Information byousoku de tsutawaru jidai
+Comment: 0,0:00:25.08,0:00:27.45,Romaji,,0,0,0,,demo Choice no shikata ga wakaranai
+Comment: 0,0:00:27.45,0:00:28.48,Romaji,,0,0,0,,Money can't buy my love
+Comment: 0,0:00:28.48,0:00:31.10,Romaji,,0,0,0,,nante NONKI na YATSU ni ha RARIAATO sankai
+Comment: 0,0:00:31.10,0:00:33.20,Romaji,,0,0,0,,MANYUARU douri ni tada dakiai
+Comment: 0,0:00:33.20,0:00:35.20,Romaji,,0,0,0,,ai ga nai koto ni kigatsukanai
+Comment: 0,0:00:35.20,0:00:37.50,Romaji,,0,0,0,,chitsusoku suru mae ni sakebouze Ho!!!
+Comment: 0,0:00:37.50,0:00:38.80,Romaji,,0,0,0,,In the midnight dream
+Comment: 0,0:00:38.80,0:00:42.82,Romaji,,0,0,0,,iki sae tsukenai nemurenai machi
+Comment: 0,0:00:42.82,0:00:46.40,Romaji,,0,0,0,,suki mo misezuni warai atte
+Comment: 0,0:00:46.40,0:00:50.88,Romaji,,0,0,0,,uso sae Safety HONTO ga Empty
+Comment: 0,0:00:50.88,0:00:55.06,Romaji,,0,0,0,,abunai gurai ni wanna shut and break out!
+Comment: 0,0:00:55.06,0:00:56.66,Romaji,,0,0,0,,(Now we gotta start  Let's get move!!)
+Comment: 0,0:00:56.66,0:00:58.72,Romaji,,0,0,0,,Let's move into the brand new world
+Comment: 0,0:00:58.72,0:01:00.92,Romaji,,0,0,0,,Let's dive into the brand new trip
+Comment: 0,0:01:00.92,0:01:04.42,Romaji,,0,0,0,,hiroi sekai ni obieteru
+Comment: 0,0:01:04.42,0:01:06.72,Romaji,,0,0,0,,hajimatta bakari no
+Comment: 0,0:01:06.72,0:01:08.90,Romaji,,0,0,0,,Now we go full speed and funky beat
+Comment: 0,0:01:08.90,0:01:11.84,Romaji,,0,0,0,,kitto kagayaku around the world
+Comment: 0,0:01:12.30,0:01:13.28,Romaji,,0,0,0,,Trip to the world
+Comment: 0,0:01:13.28,0:01:15.10,Romaji,,0,0,0,,Yo! Here we go unknown world e to
+Comment: 0,0:01:15.10,0:01:16.88,Romaji,,0,0,0,,umareta bakari no tabibito
+Comment: 0,0:01:16.88,0:01:19.20,Romaji,,0,0,0,,narenai ashidori mo mata aikyou
+Comment: 0,0:01:19.20,0:01:20.98,Romaji,,0,0,0,,KIMERU toko dake BASHItto!
+Comment: 0,0:01:20.98,0:01:22.64,Romaji,,0,0,0,,So many people in this world
+Comment: 0,0:01:22.64,0:01:25.04,Romaji,,0,0,0,,toki ni chuushou tokamonai wake ja nai kedo
+Comment: 0,0:01:25.04,0:01:26.76,Romaji,,0,0,0,,SHIMANNAI toko ha Warp shite
+Comment: 0,0:01:26.76,0:01:28.40,Romaji,,0,0,0,,kou suji dake ha tooshite ikiteru
+Comment: 0,0:01:28.40,0:01:29.84,Romaji,,0,0,0,,That's our law!
+Comment: 0,0:00:22.44,0:00:25.08,Tradução,,0,0,0,,Informação, nesta era ela viaja rápido
+Comment: 0,0:00:25.08,0:00:27.45,Tradução,,0,0,0,,mas você não sabe que escolha tomar
+Comment: 0,0:00:27.45,0:00:28.48,Tradução,,0,0,0,,"Dinheiro não pode comprar meu amor"
+Comment: 0,0:00:28.48,0:00:31.10,Tradução,,0,0,0,,Quem diz isso tem laços três vezes mais fortes
+Comment: 0,0:00:31.10,0:00:33.20,Tradução,,0,0,0,,Seguindo o manual, vocês só se abraçam
+Comment: 0,0:00:33.20,0:00:35.20,Tradução,,0,0,0,,não percebem que não tem amor
+Comment: 0,0:00:35.20,0:00:37.50,Tradução,,0,0,0,,Antes que se sufoque, vamos gritar Ho!!!
+Comment: 0,0:00:37.50,0:00:38.80,Tradução,,0,0,0,,No sonho da meia-noite
+Comment: 0,0:00:38.80,0:00:42.82,Tradução,,0,0,0,,Não se consegue nem respirar, nesta cidade que não dorme
+Comment: 0,0:00:42.82,0:00:46.40,Tradução,,0,0,0,,Nunca mostrando nenhuma fraqueza, mas sorrindo
+Comment: 0,0:00:46.40,0:00:50.88,Tradução,,0,0,0,,Mentiras são segurança, verdades são vazias
+Comment: 0,0:00:50.88,0:00:55.06,Tradução,,0,0,0,,No limite do perigo, eu quero gritar e enloquecer
+Comment: 0,0:00:55.06,0:00:56.66,Tradução,,0,0,0,,(Agora temos que começar, vamos nessa!)
+Comment: 0,0:00:56.66,0:00:58.72,Tradução,,0,0,0,,Vamos mudar para um mundo novo
+Comment: 0,0:00:58.72,0:01:00.92,Tradução,,0,0,0,,Vamos mergulhar em uma nova viagem
+Comment: 0,0:01:00.92,0:01:04.42,Tradução,,0,0,0,,Assustados pelo grande mundo
+Comment: 0,0:01:04.42,0:01:06.72,Tradução,,0,0,0,,Acabou de começar
+Comment: 0,0:01:06.72,0:01:08.90,Tradução,,0,0,0,,Agora vamos a velocidade máxima, seguindo a batida
+Comment: 0,0:01:08.90,0:01:11.84,Tradução,,0,0,0,,Tenho certeza que brilharemos ao redor do mundo
+Comment: 0,0:01:12.30,0:01:13.28,Tradução,,0,0,0,,Viagem para o mundo
+Comment: 0,0:01:13.28,0:01:15.10,Tradução,,0,0,0,,Ei! Aqui vamos nós, para o mundo desconhecido
+Comment: 0,0:01:15.10,0:01:16.88,Tradução,,0,0,0,,Somos viajantes recém-nascidos!
+Comment: 0,0:01:16.88,0:01:19.20,Tradução,,0,0,0,,A caminhada que não estamos acostumados também é charmosa
+Comment: 0,0:01:19.20,0:01:20.98,Tradução,,0,0,0,,O lugar para onde você quer ir está logo aos seus pés!
+Comment: 0,0:01:20.98,0:01:22.64,Tradução,,0,0,0,,Tantas pessoas neste mundo
+Comment: 0,0:01:22.64,0:01:25.04,Tradução,,0,0,0,,Não é como se não houvesse uma traição de vez em quando
+Comment: 0,0:01:25.04,0:01:26.76,Tradução,,0,0,0,,Mas vamos pular essas coisas sem sentido
+Comment: 0,0:01:26.76,0:01:28.40,Tradução,,0,0,0,,E seguir em frente para nossa razão de viver
+Comment: 0,0:01:28.40,0:01:29.84,Tradução,,0,0,0,,Essa é nossa lei!
+Comment: 0,0:22:42.06,0:22:45.18,Romaji,,0,0,0,,My pride says "You gotta be wild & tough"
+Comment: 0,0:22:45.18,0:22:47.18,Romaji,,0,0,0,,sou  tanin ha kaizai shinai
+Comment: 0,0:22:47.18,0:22:49.08,Romaji,,0,0,0,,never stop  tomari takunai
+Comment: 0,0:22:49.08,0:22:50.96,Romaji,,0,0,0,,gisei ni natta ai ga cry shite mo
+Comment: 0,0:22:50.96,0:22:52.72,Romaji,,0,0,0,,Peak mezashite sweep the winding street
+Comment: 0,0:22:52.72,0:22:54.94,Romaji,,0,0,0,,Beep beep! keikoku oto ha so cheap
+Comment: 0,0:22:54.94,0:22:56.54,Romaji,,0,0,0,,sheep-tachi ha michi o akero
+Comment: 0,0:22:56.54,0:22:58.74,Romaji,,0,0,0,,Cos I'm never gonna stop streak my dream
+Comment: 0,0:22:58.74,0:23:02.70,Romaji,,0,0,0,,Easy na motivation  subete ha simulation
+Comment: 0,0:23:02.70,0:23:06.64,Romaji,,0,0,0,,nigete mitatte doko demo safety zone
+Comment: 0,0:23:06.64,0:23:10.66,Romaji,,0,0,0,,nani ka o te ni irete  nani ka o wasureteku
+Comment: 0,0:23:10.66,0:23:14.18,Romaji,,0,0,0,,sekai ga kowarete mo kawaranai
+Comment: 0,0:23:14.60,0:23:22.30,Romaji,,0,0,0,,Beasty shout dare no te ni sae oenai
+Comment: 0,0:23:22.30,0:23:30.10,Romaji,,0,0,0,,hageshii yume jikan sae mo ima koeteku
+Comment: 0,0:23:30.10,0:23:34.30,Romaji,,0,0,0,,Rage your dream yami o hari saiteiku
+Comment: 0,0:23:34.30,0:23:36.22,Romaji,,0,0,0,,Like a streak to the peak
+Comment: 0,0:23:36.22,0:23:42.26,Romaji,,0,0,0,,sekaijuu no kogoe kitta yoru o keshiteku
+Comment: 0,0:23:42.26,0:23:45.84,Romaji,,0,0,0,,Rage your dream michi o hiraiteku
+Comment: 0,0:23:46.30,0:23:49.04,Romaji,,0,0,0,,Di-ding dang another round, never slowdown
+Comment: 0,0:23:49.04,0:23:50.90,Romaji,,0,0,0,,KONMA ZERO ICHI byou de Knock down
+Comment: 0,0:23:50.90,0:23:53.26,Romaji,,0,0,0,,yoin nokoshi kiete kou to the next town
+Comment: 0,0:23:53.26,0:23:55.14,Romaji,,0,0,0,,hokori mau  haishachi ni hau
+Comment: 0,0:23:55.14,0:23:56.80,Romaji,,0,0,0,,rikutsu dake no NOOGAKI-tachi
+Comment: 0,0:23:56.80,0:23:58.80,Romaji,,0,0,0,,jama KUSAI kara SHIKATO shite ikou
+Comment: 0,0:23:58.80,0:24:00.84,Romaji,,0,0,0,,Streaker satteiku street no mukou
+Comment: 0,0:24:00.84,0:24:02.24,Romaji,,0,0,0,,Something they would know
+Comment: 0,0:24:02.24,0:24:06.22,Romaji,,0,0,0,,Rage your dream tsudzuku hatenai michi o
+Comment: 0,0:24:06.22,0:24:10.26,Romaji,,0,0,0,,ai mo kakou mo furimukazu
+Comment: 0,0:24:10.26,0:24:14.20,Romaji,,0,0,0,,yukeru anata kagayaiteiru
+Comment: 0,0:24:14.20,0:24:18.92,Romaji,,0,0,0,,Rage your dream ima o ikiteiru
+Comment: 0,0:22:42.06,0:22:45.18,Tradução,,0,0,0,,Meu orgulho diz "você tem que ser selvagem e forte"
+Comment: 0,0:22:45.18,0:22:47.18,Tradução,,0,0,0,,Assim ninguém se mete
+Comment: 0,0:22:47.18,0:22:49.08,Tradução,,0,0,0,,Nunca pare, eu não quero parar
+Comment: 0,0:22:49.08,0:22:50.96,Tradução,,0,0,0,,Mesmo se você chorar por causa de um amor sacrificado
+Comment: 0,0:22:50.96,0:22:52.72,Tradução,,0,0,0,,Almeje o topo, limpe a rua espiral
+Comment: 0,0:22:52.72,0:22:54.94,Tradução,,0,0,0,,Beep beep! O toque é tão brega
+Comment: 0,0:22:54.94,0:22:56.54,Tradução,,0,0,0,,As ovelhas vão abrir o caminho
+Comment: 0,0:22:56.54,0:22:58.74,Tradução,,0,0,0,,porque eu nunca vou parar. Risque meu sonho
+Comment: 0,0:22:58.74,0:23:02.70,Tradução,,0,0,0,,Motivação fácil é uma completa simulação
+Comment: 0,0:23:02.70,0:23:06.64,Tradução,,0,0,0,,Você tentou fugir, mas nenhum lugar é uma zona segura
+Comment: 0,0:23:06.64,0:23:10.66,Tradução,,0,0,0,,Algo está em sua posse e algo está esquecido
+Comment: 0,0:23:10.66,0:23:14.18,Tradução,,0,0,0,,Mesmo se o mundo acabar, isso nunca muda
+Comment: 0,0:23:14.60,0:23:22.30,Tradução,,0,0,0,,Rainha do grito, ninguém pode te tocar
+Comment: 0,0:23:22.30,0:23:30.10,Tradução,,0,0,0,,Agora atravesse o tempo para chegar em um sonho intenso
+Comment: 0,0:23:30.10,0:23:34.30,Tradução,,0,0,0,,Assole seu sonho, corte as trevas
+Comment: 0,0:23:34.30,0:23:36.22,Tradução,,0,0,0,,Como um risco para o topo
+Comment: 0,0:23:36.22,0:23:42.26,Tradução,,0,0,0,,Apague todas trevas congelada do mundo
+Comment: 0,0:23:42.26,0:23:45.84,Tradução,,0,0,0,,Assole seu sonho, e abra o caminho
+Comment: 0,0:23:46.30,0:23:49.04,Tradução,,0,0,0,,Di-ding dang, outro round, nunca desacelere
+Comment: 0,0:23:49.04,0:23:50.90,Tradução,,0,0,0,,Um nocaute de .01 segundo
+Comment: 0,0:23:50.90,0:23:53.26,Tradução,,0,0,0,,Reverberações deixadas para trás, desapareça para próxima cidade
+Comment: 0,0:23:53.26,0:23:55.14,Tradução,,0,0,0,,Os perdedores ficam comendo poeira
+Comment: 0,0:23:55.14,0:23:56.80,Tradução,,0,0,0,,Vamos ignorar as restrições da lógica
+Comment: 0,0:23:56.80,0:23:58.80,Tradução,,0,0,0,,Porque elas são um saco
+Comment: 0,0:23:58.80,0:24:00.84,Tradução,,0,0,0,,Um nudista passa correndo na rua
+Comment: 0,0:24:00.84,0:24:02.24,Tradução,,0,0,0,,Algo que eles saberão
+Comment: 0,0:24:02.24,0:24:06.22,Tradução,,0,0,0,,Assole seu sonho, continue na estrada interminável
+Comment: 0,0:24:06.22,0:24:10.26,Tradução,,0,0,0,,Não olha para trás em seu amor ou passado
+Comment: 0,0:24:10.26,0:24:14.20,Tradução,,0,0,0,,Siga em frente e você brilhará forte
+Comment: 0,0:24:14.20,0:24:18.92,Tradução,,0,0,0,,Assole seu sonho, você está vivendo o agora
 Dialogue: 0,0:00:00.00,0:00:03.31,Credito,,0,0,0,,"Esta é uma obra de ficção.\NQuaisquer semelhanças com nomes de personagens, locais\Nou organizações são mera coincidência.\NSiga as regras de trânsito e dirija com segurança."{Type}
 Dialogue: 0,0:01:45.62,0:01:49.09,Padrão,,0,0,0,,Olhem essa multidão!
 Dialogue: 0,0:01:49.09,0:01:52.52,Padrão,,0,0,0,,Tem mais gente aqui do que na corrida do FD.
@@ -492,3 +495,153 @@ Dialogue: 0,0:24:40.32,0:24:45.53,Padrão,,0,0,0,,{\i1}Eu vou mostrar a eles de 
 Dialogue: 0,0:24:45.53,0:24:49.60,Padrão,,0,0,0,,- {\i1}Esse barulho...{\i0}\N- {\i1}Significa ação, ação!{\i0}
 Dialogue: 0,0:24:49.60,0:24:53.07,Padrão,,0,0,0,,{\i1}No próximo episódio de Initial D,\N "Batalha no Limite!"{\i0}
 Dialogue: 0,0:24:53.07,0:24:55.00,Padrão,,0,0,0,,{\i1}Não percam!{\i0}
+
+
+Comment: 0,0:24:53.07,0:24:55.00,Padrão,,0,0,0,,/** End of Original script **/
+
+
+Dialogue: 0,0:00:22.79,0:00:25.45,OP1_kanji,,0,0,0,,{\blur3.75}Information　びょうそくでつたわるじだい
+Dialogue: 0,0:00:25.46,0:00:27.53,OP1_kanji,,0,0,0,,{\blur3.75}でもChoiceのしかたがわからない しげの
+Dialogue: 1,0:00:27.53,0:00:28.83,OP1_kanji,,0,0,0,,{\blur3.75}Money can't buy my love
+Dialogue: 0,0:00:28.83,0:00:31.54,OP1_kanji,,0,0,0,,{\blur3.75}なんてノンキなヤツにラリアート３かい
+Dialogue: 0,0:00:31.54,0:00:33.46,OP1_kanji,,0,0,0,,{\blur3.75}マニュアルどおりにただだきあい
+Dialogue: 0,0:00:33.46,0:00:35.54,OP1_kanji,,0,0,0,,{\blur3.75}あいがないことにきがつかない
+Dialogue: 0,0:00:35.55,0:00:37.95,OP1_kanji,,0,0,0,,{\blur3.75}ちつそくするまえにさけぼうぜHo!!!!!!!
+Dialogue: 0,0:00:37.95,0:00:39.36,OP1_kanji,,0,0,0,,{\blur3.75}In the midnight dream
+Dialogue: 0,0:00:39.36,0:00:43.34,OP1_kanji,,0,0,0,,{\blur3.75}いきさえつかない　ねむれないまち
+Dialogue: 0,0:00:43.35,0:00:46.88,OP1_kanji,,0,0,0,,{\blur3.75}すきもみせずにわらいあって
+Dialogue: 0,0:00:47.36,0:00:51.39,OP1_kanji,,0,0,0,,{\blur3.75}うそさえSafety　ホントがEmpty
+Dialogue: 0,0:00:51.39,0:00:55.40,OP1_kanji,,0,0,0,,{\blur3.75}あぶないぐらいにwanna shut and break out!
+Dialogue: 0,0:00:55.40,0:00:57.16,OP1_kanji,,0,0,0,,{\blur3.75}Now we gotta start Let's get move
+Dialogue: 0,0:00:57.17,0:00:59.19,OP1_kanji,,0,0,0,,{\blur3.75}Let's move into the brand new world
+Dialogue: 0,0:00:59.19,0:01:01.44,OP1_kanji,,0,0,0,,{\blur3.75}Let's dive into the brand new trip
+Dialogue: 0,0:01:01.44,0:01:05.20,OP1_kanji,,0,0,0,,{\blur3.75}ひろいせかいにおびえてる　
+Dialogue: 0,0:01:05.20,0:01:07.19,OP1_kanji,,0,0,0,,{\blur3.75}はじまったばかりの
+Dialogue: 0,0:01:07.20,0:01:09.45,OP1_kanji,,0,0,0,,{\blur3.75}Now we go full speed and funky beat
+Dialogue: 0,0:01:09.45,0:01:12.91,OP1_kanji,,0,0,0,,{\blur3.75}きっとかがやく　around the world
+Dialogue: 0,0:01:12.91,0:01:13.68,OP1_kanji,,0,0,0,,{\blur3.75}Trip to the world
+Dialogue: 0,0:01:13.68,0:01:15.73,OP1_kanji,,0,0,0,,{\blur3.75}Yo! here we go unknown world へと
+Dialogue: 0,0:01:15.74,0:01:17.70,OP1_kanji,,0,0,0,,{\blur3.75}うまれたばっかりのたびびと
+Dialogue: 0,0:01:17.70,0:01:19.94,OP1_kanji,,0,0,0,,{\blur3.75}なれないあしどりもまたあいきょう
+Dialogue: 0,0:01:19.94,0:01:21.66,OP1_kanji,,0,0,0,,{\blur3.75}キメるとこだけバシッと!
+Dialogue: 0,0:01:21.66,0:01:23.11,OP1_kanji,,0,0,0,,{\blur3.75}So many people in this world
+Dialogue: 0,0:01:23.11,0:01:25.58,OP1_kanji,,0,0,0,,{\blur3.75}ときにちゅうしょうとかもないわけじゃないけど
+Dialogue: 0,0:01:25.58,0:01:27.44,OP1_kanji,,0,0,0,,{\blur3.75}ツマンナイとこはWarpしてこう
+Dialogue: 0,0:01:27.44,0:01:28.95,OP1_kanji,,0,0,0,,{\blur3.75}すじだけはとおしていきてる
+Dialogue: 0,0:01:28.95,0:01:30.08,OP1_kanji,,0,0,0,,{\blur3.75}That's our law!
+Dialogue: 0,0:00:22.79,0:00:25.45,OP1_romaji,,0,0,0,,{\blur3.5\3c&Hffffff&\c&H3A33FF&)}{\t(933,933,\blur3.5\1a&H7F\c&HB19D75&\3c&H000000&)}Information byousoku de tsutawaru jidai
+Dialogue: 0,0:00:25.46,0:00:27.53,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}demo Choice no shikata ga wakaranai
+Dialogue: 1,0:00:27.53,0:00:28.83,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}{\t(97,97,1\blur3.5\1a&H7F\c&HB9D0D7&)}Money can't buy my love
+Dialogue: 0,0:00:28.83,0:00:31.54,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&HB9D0D7&}{\t(566,1166,1\blur3.5\1a&H7F\c&HB19D75&)}nante NONKI na YATSU ni ha RARIAATO sankai
+Dialogue: 0,0:00:31.54,0:00:33.46,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&HACC6C9&}{\t(291,1526,1\blur3.5\1a&H7F\c&HB19D75&)}MANYUARU douri ni tada dakiai
+Dialogue: 0,0:00:33.46,0:00:35.54,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}ai ga nai koto ni kigatsukanai
+Dialogue: 0,0:00:35.55,0:00:37.95,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}chitsusoku suru mae ni sakebouze Ho!!!!!!
+Dialogue: 0,0:00:37.95,0:00:39.36,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}In the midnight dream
+Dialogue: 0,0:00:39.36,0:00:43.34,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}iki sae tsukenai nemurenai machi
+Dialogue: 0,0:00:43.35,0:00:46.88,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}{\c&H475037&}suki mo misezuni warai atte
+Dialogue: 0,0:00:47.36,0:00:51.39,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&HB1AFC7&}{\t(2189,2423,1\blur3.5\1a&H7F\c&HBACDD7&)}uso sae Safety  {\c&HC7D6D7&}{\t(1155,2122,1\blur3.5\1a&H7F\c&HBACDD7&)}HONTO ga Empty
+Dialogue: 0,0:00:51.39,0:00:55.40,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}abunai gurai ni wanna shut and break out!
+Dialogue: 0,0:00:55.40,0:00:57.16,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}{\3c&HFFFFE7&\c&H4A603E&}{\t(1623,1623,1\blur3.5\1a&H7F\c&HDDEFE0&\3c&H000000&)}Now we gotta start Let's get move
+Dialogue: 0,0:00:57.17,0:00:59.19,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&HDDEFE0&}Let's move into the brand new world
+Dialogue: 0,0:00:59.19,0:01:01.44,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&HDDEFE0&}Let's dive into the brand new trip
+Dialogue: 0,0:01:01.44,0:01:05.20,OP1_romaji,,0,0,0,,{\t(1,1,\blur3.5\1a&H7F\c&HDDEFE0&)}{\t(2,455,1\blur3.5\1a&H7F\c&HB19D75&\3c&H000000&)}hiroi sekai ni obieteru
+Dialogue: 0,0:01:05.20,0:01:07.19,OP1_romaji,,0,0,0,,{\t(1,1,\blur3.5\1a&H7F\c&HB19D75&\3c&H000000&)}{\t(2,899,1\blur3.5\1a&H7F\c&HDDEFE0&)}hajimatta bakari no
+Dialogue: 0,0:01:07.20,0:01:09.45,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7F\c&HDDEFE0&}{\t(2102,2102,0\blur3.5\1a&H7F\c&HB19D75&\3c&H000000&)}Now we go full speed and funky beat
+Dialogue: 0,0:01:09.45,0:01:12.91,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f}kitto kagayaku around the world
+Dialogue: 0,0:01:12.91,0:01:13.68,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}Trip to the world
+Dialogue: 0,0:01:13.68,0:01:15.73,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}Yo! here we go unknown world he to
+Dialogue: 0,0:01:15.74,0:01:17.70,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}umareta bakari no tabibito
+Dialogue: 0,0:01:17.70,0:01:19.94,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}narenai ashidori mo mata aikyou
+Dialogue: 0,0:01:19.94,0:01:21.66,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}KIMEru toko dake BASHItto!
+Dialogue: 0,0:01:21.66,0:01:23.11,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}So many people in this world
+Dialogue: 0,0:01:23.11,0:01:25.58,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}toki ni chuushou tokamonai wake ja nai kedo
+Dialogue: 0,0:01:25.58,0:01:27.44,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}SHIMANNAI toko ha Warp shite kou
+Dialogue: 0,0:01:27.44,0:01:28.95,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}suji dake ha tooshite ikiteru
+Dialogue: 0,0:01:28.95,0:01:30.08,OP1_romaji,,0,0,0,,{\blur3.5\1a&H7f\c&H000000&\3c&H58FF61&}{\t(239,239,\c&HC4C1B7&\3c&H000000&)}That's our law!
+
+Dialogue: 0,0:22:42.81,0:22:45.57,ED1_kanji,,0,0,0,,{\blur3.75}My pride says “You gotta be wild & tough”
+Dialogue: 0,0:22:45.57,0:22:47.58,ED1_kanji,,0,0,0,,{\blur3.75}そう　たにんはかいざいしない
+Dialogue: 0,0:22:47.58,0:22:49.27,ED1_kanji,,0,0,0,,{\blur3.75}never stop　とまりたくない
+Dialogue: 0,0:22:49.27,0:22:51.35,ED1_kanji,,0,0,0,,{\blur3.75}ぎせいになったあいがcryしても
+Dialogue: 0,0:22:51.35,0:22:53.17,ED1_kanji,,0,0,0,,{\blur3.75}Peakめざしてsweep the winding street
+Dialogue: 0,0:22:53.17,0:22:55.31,ED1_kanji,,0,0,0,,{\blur3.75}Beep beep!　けいこくおとはso cheap
+Dialogue: 0,0:22:55.31,0:22:56.73,ED1_kanji,,0,0,0,,{\blur3.75}Sheepたちはみちあける
+Dialogue: 0,0:22:56.73,0:22:59.17,ED1_kanji,,0,0,0,,{\blur3.75}Cos I'm never gonna stop streak my dream
+Dialogue: 0,0:22:59.17,0:23:01.17,ED1_kanji,,0,0,0,,{\blur3.75}Easyなmotivation
+Dialogue: 0,0:23:01.17,0:23:03.17,ED1_kanji,,0,0,0,,{\blur3.75}すべてはsimulation
+Dialogue: 0,0:23:03.17,0:23:05.17,ED1_kanji,,0,0,0,,{\blur3.75}にげてみたって
+Dialogue: 0,0:23:05.17,0:23:07.17,ED1_kanji,,0,0,0,,{\blur3.75}どこでもsafety zone
+Dialogue: 0,0:23:07.17,0:23:09.17,ED1_kanji,,0,0,0,,{\blur3.75}なにかをてにいりて
+Dialogue: 0,0:23:09.17,0:23:11.17,ED1_kanji,,0,0,0,,{\blur3.75}なにかをわすれてく
+Dialogue: 0,0:23:11.17,0:23:13.17,ED1_kanji,,0,0,0,,{\blur3.75}せかいはこわれても
+Dialogue: 0,0:23:13.17,0:23:15.17,ED1_kanji,,0,0,0,,{\blur3.75}かわらない
+Dialogue: 0,0:23:15.17,0:23:17.07,ED1_kanji,,0,0,0,,{\blur3.75}Beasty shout
+Dialogue: 0,0:23:17.07,0:23:22.71,ED1_kanji,,0,0,0,,{\blur3.75}だれのてにさえおえかい
+Dialogue: 0,0:23:23.21,0:23:26.67,ED1_kanji,,0,0,0,,{\blur3.75}はげしいゆめ
+Dialogue: 0,0:23:26.67,0:23:30.59,ED1_kanji,,0,0,0,,{\blur3.75}じかんさえもいまこえてく
+Dialogue: 0,0:23:30.75,0:23:31.69,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:31.69,0:23:34.73,ED1_kanji,,0,0,0,,{\blur3.75}やみをはりさいていく
+Dialogue: 0,0:23:34.73,0:23:36.71,ED1_kanji,,0,0,0,,{\blur3.75}Like a streak to the peak
+Dialogue: 0,0:23:36.71,0:23:38.74,ED1_kanji,,0,0,0,,{\blur3.75}せかいじゅうの
+Dialogue: 0,0:23:38.74,0:23:42.52,ED1_kanji,,0,0,0,,{\blur3.75}こごえきったよるをけしてく
+Dialogue: 0,0:23:42.76,0:23:43.77,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:43.77,0:23:46.73,ED1_kanji,,0,0,0,,{\blur3.75}みちをひらいてく
+Dialogue: 0,0:23:46.73,0:23:49.47,ED1_kanji,,0,0,0,,{\blur3.75}Di-ding dang another round, never slowdown
+Dialogue: 0,0:23:49.47,0:23:51.42,ED1_kanji,,0,0,0,,{\blur3.75}コンマゼロイチびょうでKnock down
+Dialogue: 0,0:23:51.42,0:23:53.57,ED1_kanji,,0,0,0,,{\blur3.75}よいんおこしきえてこうto the next town
+Dialogue: 0,0:23:53.57,0:23:54.41,ED1_kanji,,0,0,0,,{\blur3.75}ほこりまう
+Dialogue: 0,0:23:54.41,0:23:55.35,ED1_kanji,,0,0,0,,{\blur3.75}はいしゃちにはう
+Dialogue: 0,0:23:55.35,0:23:57.36,ED1_kanji,,0,0,0,,{\blur3.75}i理屈だけのノーガキ達
+Dialogue: 0,0:23:57.36,0:23:59.17,ED1_kanji,,0,0,0,,{\blur3.75}じゃまクサイからシカトしていこう
+Dialogue: 0,0:23:59.17,0:24:01.39,ED1_kanji,,0,0,0,,{\blur3.75}StreakerさっていくStreetのむこう
+Dialogue: 0,0:24:01.40,0:24:02.82,ED1_kanji,,0,0,0,,{\blur3.75}Something they would know
+Dialogue: 0,0:24:02.82,0:24:03.79,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:03.79,0:24:06.72,ED1_kanji,,0,0,0,,{\blur3.75}つづくはてないみちを
+Dialogue: 0,0:24:06.72,0:24:10.83,ED1_kanji,,0,0,0,,{\blur3.75}あいもかこうもふりむかず
+Dialogue: 0,0:24:10.83,0:24:11.82,ED1_kanji,,0,0,0,,{\blur3.75}ゆける
+Dialogue: 0,0:24:11.82,0:24:14.83,ED1_kanji,,0,0,0,,{\blur3.75}あなたかがやいてる
+Dialogue: 0,0:24:14.83,0:24:15.84,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:15.84,0:24:18.72,ED1_kanji,,0,0,0,,{\blur3.75}いまをいきている
+Dialogue: 0,0:22:42.81,0:22:45.57,ED1_romaji,,0,0,0,,{\blur3.75}My pride says “You gotta be wild & tough”
+Dialogue: 0,0:22:45.57,0:22:47.58,ED1_romaji,,0,0,0,,{\blur3.75}sou  tanin ha kaizai shinai
+Dialogue: 0,0:22:47.58,0:22:49.27,ED1_romaji,,0,0,0,,{\blur3.75}never stop  tomari takunai
+Dialogue: 0,0:22:49.27,0:22:51.35,ED1_romaji,,0,0,0,,{\blur3.75}gisei ni natta ai ga cry shite mo
+Dialogue: 0,0:22:51.35,0:22:53.17,ED1_romaji,,0,0,0,,{\blur3.75}Peak mezashite sweep the winding street
+Dialogue: 0,0:22:53.17,0:22:55.31,ED1_romaji,,0,0,0,,{\blur3.75}Beep beep! keikoku oto ha so cheap
+Dialogue: 0,0:22:55.31,0:22:56.73,ED1_romaji,,0,0,0,,{\blur3.75}Sheep tachi ha michi akero
+Dialogue: 0,0:22:56.73,0:22:59.17,ED1_romaji,,0,0,0,,{\blur3.75}Cos I'm never gonna stop streak my dream
+Dialogue: 0,0:22:59.17,0:23:01.17,ED1_romaji,,0,0,0,,{\blur3.75}Easy na motivation
+Dialogue: 0,0:23:01.17,0:23:03.17,ED1_romaji,,0,0,0,,{\blur3.75}subete ha simulation
+Dialogue: 0,0:23:03.17,0:23:05.17,ED1_romaji,,0,0,0,,{\blur3.75}nigete mitatte
+Dialogue: 0,0:23:05.17,0:23:07.17,ED1_romaji,,0,0,0,,{\blur3.75}doko demo safety zone
+Dialogue: 0,0:23:07.17,0:23:09.17,ED1_romaji,,0,0,0,,{\blur3.75}nani ka wo te ni irete
+Dialogue: 0,0:23:09.17,0:23:11.17,ED1_romaji,,0,0,0,,{\blur3.75}nani ka wo wasureteku
+Dialogue: 0,0:23:11.17,0:23:13.17,ED1_romaji,,0,0,0,,{\blur3.75}sekai ha kowarete mo
+Dialogue: 0,0:23:13.17,0:23:15.17,ED1_romaji,,0,0,0,,{\blur3.75}kawaranai
+Dialogue: 0,0:23:15.17,0:23:17.07,ED1_romaji,,0,0,0,,{\blur3.75}Beasty shout
+Dialogue: 0,0:23:17.07,0:23:22.71,ED1_romaji,,0,0,0,,{\blur3.75}dare no te ni sae oenai
+Dialogue: 0,0:23:23.21,0:23:26.67,ED1_romaji,,0,0,0,,{\blur3.75}hageshii yume
+Dialogue: 0,0:23:26.67,0:23:30.59,ED1_romaji,,0,0,0,,{\blur3.75}jikan sae mo ima koeteku
+Dialogue: 0,0:23:30.75,0:23:31.69,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:31.69,0:23:34.73,ED1_romaji,,0,0,0,,{\blur3.75}yami o hari saiteiku
+Dialogue: 0,0:23:34.73,0:23:36.71,ED1_romaji,,0,0,0,,{\blur3.75}Like a streak to the peak
+Dialogue: 0,0:23:36.71,0:23:38.74,ED1_romaji,,0,0,0,,{\blur3.75}sekai juu no
+Dialogue: 0,0:23:38.74,0:23:42.52,ED1_romaji,,0,0,0,,{\blur3.75}kogoe kitta yoru wo keshiteku
+Dialogue: 0,0:23:42.76,0:23:43.77,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:43.77,0:23:46.73,ED1_romaji,,0,0,0,,{\blur3.75}michi o hiraiteku
+Dialogue: 0,0:23:46.73,0:23:49.47,ED1_romaji,,0,0,0,,{\blur3.75}Di-ding dang another round, never slowdown
+Dialogue: 0,0:23:49.47,0:23:51.42,ED1_romaji,,0,0,0,,{\blur3.75}KONMA ZERO ICHI byou de Knock down
+Dialogue: 0,0:23:51.42,0:23:53.57,ED1_romaji,,0,0,0,,{\blur3.75}yoin nokoshi kiete kou to the next town
+Dialogue: 0,0:23:53.57,0:23:54.41,ED1_romaji,,0,0,0,,{\blur3.75}hokori mau
+Dialogue: 0,0:23:54.41,0:23:55.35,ED1_romaji,,0,0,0,,{\blur3.75}haishachi ni hau
+Dialogue: 0,0:23:55.35,0:23:57.36,ED1_romaji,,0,0,0,,{\blur3.75}rikutsu dake no NOOGAKI-tachi
+Dialogue: 0,0:23:57.36,0:23:59.17,ED1_romaji,,0,0,0,,{\blur3.75}jama KUSAI kara SHIKATO shite ikou
+Dialogue: 0,0:23:59.17,0:24:01.39,ED1_romaji,,0,0,0,,{\blur3.75}Streaker satteiku Street no mukou
+Dialogue: 0,0:24:01.40,0:24:02.82,ED1_romaji,,0,0,0,,{\blur3.75}Something they would know
+Dialogue: 0,0:24:02.82,0:24:03.79,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:03.79,0:24:06.72,ED1_romaji,,0,0,0,,{\blur3.75}tsudzuku hatenai michi wo
+Dialogue: 0,0:24:06.72,0:24:10.83,ED1_romaji,,0,0,0,,{\blur3.75}ai mo kakou mo furimukazu
+Dialogue: 0,0:24:10.83,0:24:11.82,ED1_romaji,,0,0,0,,{\blur3.75}yukeru
+Dialogue: 0,0:24:11.82,0:24:14.83,ED1_romaji,,0,0,0,,{\blur3.75}anata kagayaiteiru
+Dialogue: 0,0:24:14.83,0:24:15.84,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:15.84,0:24:18.72,ED1_romaji,,0,0,0,,{\blur3.75}ima wo ikiteiru

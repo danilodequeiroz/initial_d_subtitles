@@ -21,103 +21,105 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: INITIALD
-Audio File: ../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][01][BDRIP][960x720][X264-10bit_AAC][40F4F207].mp4
-Video File: ../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][01][BDRIP][960x720][X264-10bit_AAC][40F4F207].mp4
+Audio File: ../../../../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][01][BDRIP][960x720][X264-10bit_AAC][40F4F207].mp4
+Video File: ../../../../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][01][BDRIP][960x720][X264-10bit_AAC][40F4F207].mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Video Position: 42281
+Scroll Position: 27
+Active Line: 50
+Video Position: 41261
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED1_kanji,T_No1,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
-Style: ED1_romaji,EPSON 行書体Ｍ,29,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: ED1_kanji,aquafont,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+Style: ED1_romaji,Segoe Print,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:22:42.81,0:22:45.57,ED1_kanji,,0,0,0,,My pride says “You gotta be wild & tough”
-Dialogue: 0,0:22:45.57,0:22:47.58,ED1_kanji,,0,0,0,,そう　たにんはかいざいしない
-Dialogue: 0,0:22:47.58,0:22:49.27,ED1_kanji,,0,0,0,,never stop　とまりたくない
-Dialogue: 0,0:22:49.27,0:22:51.35,ED1_kanji,,0,0,0,,ぎせいになったあいがcryしても
-Dialogue: 0,0:22:51.35,0:22:53.17,ED1_kanji,,0,0,0,,Peakめざしてsweep the winding street
-Dialogue: 0,0:22:53.17,0:22:55.31,ED1_kanji,,0,0,0,,Beep beep!　けいこくおとはso cheap
-Dialogue: 0,0:22:55.31,0:22:56.73,ED1_kanji,,0,0,0,,Sheepたちはみちあける
-Dialogue: 0,0:22:56.73,0:22:59.17,ED1_kanji,,0,0,0,,Cos I'm never gonna stop streak my dream
-Dialogue: 0,0:22:59.17,0:23:01.17,ED1_kanji,,0,0,0,,Easyなmotivation
-Dialogue: 0,0:23:01.17,0:23:03.17,ED1_kanji,,0,0,0,,すべてはsimulation
-Dialogue: 0,0:23:03.17,0:23:05.17,ED1_kanji,,0,0,0,,にげてみたって
-Dialogue: 0,0:23:05.17,0:23:07.17,ED1_kanji,,0,0,0,,どこでもsafety zone
-Dialogue: 0,0:23:07.17,0:23:09.17,ED1_kanji,,0,0,0,,なにかをてにいりて
-Dialogue: 0,0:23:09.17,0:23:11.17,ED1_kanji,,0,0,0,,なにかをわすれてく
-Dialogue: 0,0:23:11.17,0:23:13.17,ED1_kanji,,0,0,0,,せかいはこわれても
-Dialogue: 0,0:23:13.17,0:23:15.17,ED1_kanji,,0,0,0,,かわらない
-Dialogue: 0,0:23:15.17,0:23:17.07,ED1_kanji,,0,0,0,,Beasty shout
-Dialogue: 0,0:23:17.07,0:23:22.71,ED1_kanji,,0,0,0,,だれのてにさえおえかい
-Dialogue: 0,0:23:23.21,0:23:26.67,ED1_kanji,,0,0,0,,はげしいゆめ
-Dialogue: 0,0:23:26.67,0:23:30.59,ED1_kanji,,0,0,0,,じかんさえもいまこえてく
-Dialogue: 0,0:23:30.75,0:23:31.69,ED1_kanji,,0,0,0,,Rage your dream
-Dialogue: 0,0:23:31.69,0:23:34.73,ED1_kanji,,0,0,0,,やみをはりさいていく
-Dialogue: 0,0:23:34.73,0:23:36.71,ED1_kanji,,0,0,0,,Like a streak to the peak
-Dialogue: 0,0:23:36.71,0:23:38.74,ED1_kanji,,0,0,0,,せかいじゅうの
-Dialogue: 0,0:23:38.74,0:23:42.52,ED1_kanji,,0,0,0,,こごえきったよるをけしてく
-Dialogue: 0,0:23:42.76,0:23:43.77,ED1_kanji,,0,0,0,,Rage your dream
-Dialogue: 0,0:23:43.77,0:23:46.73,ED1_kanji,,0,0,0,,みちをひらいてく
-Dialogue: 0,0:23:46.73,0:23:49.47,ED1_kanji,,0,0,0,,Di-ding dang another round, never slowdown
-Dialogue: 0,0:23:49.47,0:23:51.42,ED1_kanji,,0,0,0,,コンマゼロイチびょうでKnock down
-Dialogue: 0,0:23:51.42,0:23:53.57,ED1_kanji,,0,0,0,,よいんおこしきえてこうto the next town
-Dialogue: 0,0:23:53.57,0:23:54.41,ED1_kanji,,0,0,0,,ほこりまう
-Dialogue: 0,0:23:54.41,0:23:55.35,ED1_kanji,,0,0,0,,はいしゃちにはう
-Dialogue: 0,0:23:55.35,0:23:57.36,ED1_kanji,,0,0,0,,i理屈だけのノーガキ達
-Dialogue: 0,0:23:57.36,0:23:59.17,ED1_kanji,,0,0,0,,じゃまクサイからシカトしていこう
-Dialogue: 0,0:23:59.17,0:24:01.39,ED1_kanji,,0,0,0,,StreakerさっていくStreetのむこう
-Dialogue: 0,0:24:01.40,0:24:02.82,ED1_kanji,,0,0,0,,Something they would know
-Dialogue: 0,0:24:02.82,0:24:03.79,ED1_kanji,,0,0,0,,Rage your dream
-Dialogue: 0,0:24:03.79,0:24:06.72,ED1_kanji,,0,0,0,,つづくはてないみちを
-Dialogue: 0,0:24:06.72,0:24:10.83,ED1_kanji,,0,0,0,,あいもかこうもふりむかず
-Dialogue: 0,0:24:10.83,0:24:11.82,ED1_kanji,,0,0,0,,ゆける
-Dialogue: 0,0:24:11.82,0:24:14.83,ED1_kanji,,0,0,0,,あなたかがやいてる
-Dialogue: 0,0:24:14.83,0:24:15.84,ED1_kanji,,0,0,0,,Rage your dream
-Dialogue: 0,0:24:15.84,0:24:18.72,ED1_kanji,,0,0,0,,いまをいきている
-Dialogue: 0,0:22:42.81,0:22:45.57,ED1_romaji,,0,0,0,,My pride says “You gotta be wild & tough”
-Dialogue: 0,0:22:45.57,0:22:47.58,ED1_romaji,,0,0,0,,sou  tanin ha kaizai shinai
-Dialogue: 0,0:22:47.58,0:22:49.27,ED1_romaji,,0,0,0,,never stop  tomari takunai
-Dialogue: 0,0:22:49.27,0:22:51.35,ED1_romaji,,0,0,0,,gisei ni natta ai ga cry shite mo
-Dialogue: 0,0:22:51.35,0:22:53.17,ED1_romaji,,0,0,0,,Peak mezashite sweep the winding street
-Dialogue: 0,0:22:53.17,0:22:55.31,ED1_romaji,,0,0,0,,Beep beep! keikoku oto ha so cheap
-Dialogue: 0,0:22:55.31,0:22:56.73,ED1_romaji,,0,0,0,,Sheep tachi ha michi akero
-Dialogue: 0,0:22:56.73,0:22:59.17,ED1_romaji,,0,0,0,,Cos I'm never gonna stop streak my dream
-Dialogue: 0,0:22:59.17,0:23:01.17,ED1_romaji,,0,0,0,,Easy na motivation
-Dialogue: 0,0:23:01.17,0:23:03.17,ED1_romaji,,0,0,0,,subete ha simulation
-Dialogue: 0,0:23:03.17,0:23:05.17,ED1_romaji,,0,0,0,,nigete mitatte
-Dialogue: 0,0:23:05.17,0:23:07.17,ED1_romaji,,0,0,0,,doko demo safety zone
-Dialogue: 0,0:23:07.17,0:23:09.17,ED1_romaji,,0,0,0,,nani ka wo te ni irete
-Dialogue: 0,0:23:09.17,0:23:11.17,ED1_romaji,,0,0,0,,nani ka wo wasureteku
-Dialogue: 0,0:23:11.17,0:23:13.17,ED1_romaji,,0,0,0,,sekai ha kowarete mo
-Dialogue: 0,0:23:13.17,0:23:15.17,ED1_romaji,,0,0,0,,kawaranai
-Dialogue: 0,0:23:15.17,0:23:17.07,ED1_romaji,,0,0,0,,Beasty shout
-Dialogue: 0,0:23:17.07,0:23:22.71,ED1_romaji,,0,0,0,,dare no te ni sae oenai
-Dialogue: 0,0:23:23.21,0:23:26.67,ED1_romaji,,0,0,0,,hageshii yume
-Dialogue: 0,0:23:26.67,0:23:30.59,ED1_romaji,,0,0,0,,jikan sae mo ima koeteku
-Dialogue: 0,0:23:30.75,0:23:31.69,ED1_romaji,,0,0,0,,Rage your dream
-Dialogue: 0,0:23:31.69,0:23:34.73,ED1_romaji,,0,0,0,,yami o hari saiteiku
-Dialogue: 0,0:23:34.73,0:23:36.71,ED1_romaji,,0,0,0,,Like a streak to the peak
-Dialogue: 0,0:23:36.71,0:23:38.74,ED1_romaji,,0,0,0,,sekai juu no
-Dialogue: 0,0:23:38.74,0:23:42.52,ED1_romaji,,0,0,0,,kogoe kitta yoru wo keshiteku
-Dialogue: 0,0:23:42.76,0:23:43.77,ED1_romaji,,0,0,0,,Rage your dream
-Dialogue: 0,0:23:43.77,0:23:46.73,ED1_romaji,,0,0,0,,michi o hiraiteku
-Dialogue: 0,0:23:46.73,0:23:49.47,ED1_romaji,,0,0,0,,Di-ding dang another round, never slowdown
-Dialogue: 0,0:23:49.47,0:23:51.42,ED1_romaji,,0,0,0,,KONMA ZERO ICHI byou de Knock down
-Dialogue: 0,0:23:51.42,0:23:53.57,ED1_romaji,,0,0,0,,yoin nokoshi kiete kou to the next town
-Dialogue: 0,0:23:53.57,0:23:54.41,ED1_romaji,,0,0,0,,hokori mau
-Dialogue: 0,0:23:54.41,0:23:55.35,ED1_romaji,,0,0,0,,haishachi ni hau
-Dialogue: 0,0:23:55.35,0:23:57.36,ED1_romaji,,0,0,0,,rikutsu dake no NOOGAKI-tachi
-Dialogue: 0,0:23:57.36,0:23:59.17,ED1_romaji,,0,0,0,,jama KUSAI kara SHIKATO shite ikou
-Dialogue: 0,0:23:59.17,0:24:01.39,ED1_romaji,,0,0,0,,Streaker satteiku Street no mukou
-Dialogue: 0,0:24:01.40,0:24:02.82,ED1_romaji,,0,0,0,,Something they would know
-Dialogue: 0,0:24:02.82,0:24:03.79,ED1_romaji,,0,0,0,,Rage your dream
-Dialogue: 0,0:24:03.79,0:24:06.72,ED1_romaji,,0,0,0,,tsudzuku hatenai michi wo
-Dialogue: 0,0:24:06.72,0:24:10.83,ED1_romaji,,0,0,0,,ai mo kakou mo furimukazu
-Dialogue: 0,0:24:10.83,0:24:11.82,ED1_romaji,,0,0,0,,yukeru
-Dialogue: 0,0:24:11.82,0:24:14.83,ED1_romaji,,0,0,0,,anata kagayaiteiru
-Dialogue: 0,0:24:14.83,0:24:15.84,ED1_romaji,,0,0,0,,Rage your dream
-Dialogue: 0,0:24:15.84,0:24:18.72,ED1_romaji,,0,0,0,,ima wo ikiteiru
+Dialogue: 0,0:22:42.81,0:22:45.57,ED1_kanji,,0,0,0,,{\blur3.75}My pride says “You gotta be wild & tough”
+Dialogue: 0,0:22:45.57,0:22:47.58,ED1_kanji,,0,0,0,,{\blur3.75}そう　たにんはかいざいしない
+Dialogue: 0,0:22:47.58,0:22:49.27,ED1_kanji,,0,0,0,,{\blur3.75}never stop　とまりたくない
+Dialogue: 0,0:22:49.27,0:22:51.35,ED1_kanji,,0,0,0,,{\blur3.75}ぎせいになったあいがcryしても
+Dialogue: 0,0:22:51.35,0:22:53.17,ED1_kanji,,0,0,0,,{\blur3.75}Peakめざしてsweep the winding street
+Dialogue: 0,0:22:53.17,0:22:55.31,ED1_kanji,,0,0,0,,{\blur3.75}Beep beep!　けいこくおとはso cheap
+Dialogue: 0,0:22:55.31,0:22:56.73,ED1_kanji,,0,0,0,,{\blur3.75}Sheepたちはみちあける
+Dialogue: 0,0:22:56.73,0:22:59.17,ED1_kanji,,0,0,0,,{\blur3.75}Cos I'm never gonna stop streak my dream
+Dialogue: 0,0:22:59.17,0:23:01.17,ED1_kanji,,0,0,0,,{\blur3.75}Easyなmotivation
+Dialogue: 0,0:23:01.17,0:23:03.17,ED1_kanji,,0,0,0,,{\blur3.75}すべてはsimulation
+Dialogue: 0,0:23:03.17,0:23:05.17,ED1_kanji,,0,0,0,,{\blur3.75}にげてみたって
+Dialogue: 0,0:23:05.17,0:23:07.17,ED1_kanji,,0,0,0,,{\blur3.75}どこでもsafety zone
+Dialogue: 0,0:23:07.17,0:23:09.17,ED1_kanji,,0,0,0,,{\blur3.75}なにかをてにいりて
+Dialogue: 0,0:23:09.17,0:23:11.17,ED1_kanji,,0,0,0,,{\blur3.75}なにかをわすれてく
+Dialogue: 0,0:23:11.17,0:23:13.17,ED1_kanji,,0,0,0,,{\blur3.75}せかいはこわれても
+Dialogue: 0,0:23:13.17,0:23:15.17,ED1_kanji,,0,0,0,,{\blur3.75}かわらない
+Dialogue: 0,0:23:15.17,0:23:17.07,ED1_kanji,,0,0,0,,{\blur3.75}Beasty shout
+Dialogue: 0,0:23:17.07,0:23:22.71,ED1_kanji,,0,0,0,,{\blur3.75}だれのてにさえおえかい
+Dialogue: 0,0:23:23.21,0:23:26.67,ED1_kanji,,0,0,0,,{\blur3.75}はげしいゆめ
+Dialogue: 0,0:23:26.67,0:23:30.59,ED1_kanji,,0,0,0,,{\blur3.75}じかんさえもいまこえてく
+Dialogue: 0,0:23:30.75,0:23:31.69,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:31.69,0:23:34.73,ED1_kanji,,0,0,0,,{\blur3.75}やみをはりさいていく
+Dialogue: 0,0:23:34.73,0:23:36.71,ED1_kanji,,0,0,0,,{\blur3.75}Like a streak to the peak
+Dialogue: 0,0:23:36.71,0:23:38.74,ED1_kanji,,0,0,0,,{\blur3.75}せかいじゅうの
+Dialogue: 0,0:23:38.74,0:23:42.52,ED1_kanji,,0,0,0,,{\blur3.75}こごえきったよるをけしてく
+Dialogue: 0,0:23:42.76,0:23:43.77,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:43.77,0:23:46.73,ED1_kanji,,0,0,0,,{\blur3.75}みちをひらいてく
+Dialogue: 0,0:23:46.73,0:23:49.47,ED1_kanji,,0,0,0,,{\blur3.75}Di-ding dang another round, never slowdown
+Dialogue: 0,0:23:49.47,0:23:51.42,ED1_kanji,,0,0,0,,{\blur3.75}コンマゼロイチびょうでKnock down
+Dialogue: 0,0:23:51.42,0:23:53.57,ED1_kanji,,0,0,0,,{\blur3.75}よいんおこしきえてこうto the next town
+Dialogue: 0,0:23:53.57,0:23:54.41,ED1_kanji,,0,0,0,,{\blur3.75}ほこりまう
+Dialogue: 0,0:23:54.41,0:23:55.35,ED1_kanji,,0,0,0,,{\blur3.75}はいしゃちにはう
+Dialogue: 0,0:23:55.35,0:23:57.36,ED1_kanji,,0,0,0,,{\blur3.75}i理屈だけのノーガキ達
+Dialogue: 0,0:23:57.36,0:23:59.17,ED1_kanji,,0,0,0,,{\blur3.75}じゃまクサイからシカトしていこう
+Dialogue: 0,0:23:59.17,0:24:01.39,ED1_kanji,,0,0,0,,{\blur3.75}StreakerさっていくStreetのむこう
+Dialogue: 0,0:24:01.40,0:24:02.82,ED1_kanji,,0,0,0,,{\blur3.75}Something they would know
+Dialogue: 0,0:24:02.82,0:24:03.79,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:03.79,0:24:06.72,ED1_kanji,,0,0,0,,{\blur3.75}つづくはてないみちを
+Dialogue: 0,0:24:06.72,0:24:10.83,ED1_kanji,,0,0,0,,{\blur3.75}あいもかこうもふりむかず
+Dialogue: 0,0:24:10.83,0:24:11.82,ED1_kanji,,0,0,0,,{\blur3.75}ゆける
+Dialogue: 0,0:24:11.82,0:24:14.83,ED1_kanji,,0,0,0,,{\blur3.75}あなたかがやいてる
+Dialogue: 0,0:24:14.83,0:24:15.84,ED1_kanji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:15.84,0:24:18.72,ED1_kanji,,0,0,0,,{\blur3.75}いまをいきている
+Dialogue: 0,0:22:42.81,0:22:45.57,ED1_romaji,,0,0,0,,{\blur3.75}My pride says “You gotta be wild & tough”
+Dialogue: 0,0:22:45.57,0:22:47.58,ED1_romaji,,0,0,0,,{\blur3.75}sou  tanin ha kaizai shinai
+Dialogue: 0,0:22:47.58,0:22:49.27,ED1_romaji,,0,0,0,,{\blur3.75}never stop  tomari takunai
+Dialogue: 0,0:22:49.27,0:22:51.35,ED1_romaji,,0,0,0,,{\blur3.75}gisei ni natta ai ga cry shite mo
+Dialogue: 0,0:22:51.35,0:22:53.17,ED1_romaji,,0,0,0,,{\blur3.75}Peak mezashite sweep the winding street
+Dialogue: 0,0:22:53.17,0:22:55.31,ED1_romaji,,0,0,0,,{\blur3.75}Beep beep! keikoku oto ha so cheap
+Dialogue: 0,0:22:55.31,0:22:56.73,ED1_romaji,,0,0,0,,{\blur3.75}Sheep tachi ha michi akero
+Dialogue: 0,0:22:56.73,0:22:59.17,ED1_romaji,,0,0,0,,{\blur3.75}Cos I'm never gonna stop streak my dream
+Dialogue: 0,0:22:59.17,0:23:01.17,ED1_romaji,,0,0,0,,{\blur3.75}Easy na motivation
+Dialogue: 0,0:23:01.17,0:23:03.17,ED1_romaji,,0,0,0,,{\blur3.75}subete ha simulation
+Dialogue: 0,0:23:03.17,0:23:05.17,ED1_romaji,,0,0,0,,{\blur3.75}nigete mitatte
+Dialogue: 0,0:23:05.17,0:23:07.17,ED1_romaji,,0,0,0,,{\blur3.75}doko demo safety zone
+Dialogue: 0,0:23:07.17,0:23:09.17,ED1_romaji,,0,0,0,,{\blur3.75}nani ka wo te ni irete
+Dialogue: 0,0:23:09.17,0:23:11.17,ED1_romaji,,0,0,0,,{\blur3.75}nani ka wo wasureteku
+Dialogue: 0,0:23:11.17,0:23:13.17,ED1_romaji,,0,0,0,,{\blur3.75}sekai ha kowarete mo
+Dialogue: 0,0:23:13.17,0:23:15.17,ED1_romaji,,0,0,0,,{\blur3.75}kawaranai
+Dialogue: 0,0:23:15.17,0:23:17.07,ED1_romaji,,0,0,0,,{\blur3.75}Beasty shout
+Dialogue: 0,0:23:17.07,0:23:22.71,ED1_romaji,,0,0,0,,{\blur3.75}dare no te ni sae oenai
+Dialogue: 0,0:23:23.21,0:23:26.67,ED1_romaji,,0,0,0,,{\blur3.75}hageshii yume
+Dialogue: 0,0:23:26.67,0:23:30.59,ED1_romaji,,0,0,0,,{\blur3.75}jikan sae mo ima koeteku
+Dialogue: 0,0:23:30.75,0:23:31.69,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:31.69,0:23:34.73,ED1_romaji,,0,0,0,,{\blur3.75}yami o hari saiteiku
+Dialogue: 0,0:23:34.73,0:23:36.71,ED1_romaji,,0,0,0,,{\blur3.75}Like a streak to the peak
+Dialogue: 0,0:23:36.71,0:23:38.74,ED1_romaji,,0,0,0,,{\blur3.75}sekai juu no
+Dialogue: 0,0:23:38.74,0:23:42.52,ED1_romaji,,0,0,0,,{\blur3.75}kogoe kitta yoru wo keshiteku
+Dialogue: 0,0:23:42.76,0:23:43.77,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:23:43.77,0:23:46.73,ED1_romaji,,0,0,0,,{\blur3.75}michi o hiraiteku
+Dialogue: 0,0:23:46.73,0:23:49.47,ED1_romaji,,0,0,0,,{\blur3.75}Di-ding dang another round, never slowdown
+Dialogue: 0,0:23:49.47,0:23:51.42,ED1_romaji,,0,0,0,,{\blur3.75}KONMA ZERO ICHI byou de Knock down
+Dialogue: 0,0:23:51.42,0:23:53.57,ED1_romaji,,0,0,0,,{\blur3.75}yoin nokoshi kiete kou to the next town
+Dialogue: 0,0:23:53.57,0:23:54.41,ED1_romaji,,0,0,0,,{\blur3.75}hokori mau
+Dialogue: 0,0:23:54.41,0:23:55.35,ED1_romaji,,0,0,0,,{\blur3.75}haishachi ni hau
+Dialogue: 0,0:23:55.35,0:23:57.36,ED1_romaji,,0,0,0,,{\blur3.75}rikutsu dake no NOOGAKI-tachi
+Dialogue: 0,0:23:57.36,0:23:59.17,ED1_romaji,,0,0,0,,{\blur3.75}jama KUSAI kara SHIKATO shite ikou
+Dialogue: 0,0:23:59.17,0:24:01.39,ED1_romaji,,0,0,0,,{\blur3.75}Streaker satteiku Street no mukou
+Dialogue: 0,0:24:01.40,0:24:02.82,ED1_romaji,,0,0,0,,{\blur3.75}Something they would know
+Dialogue: 0,0:24:02.82,0:24:03.79,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:03.79,0:24:06.72,ED1_romaji,,0,0,0,,{\blur3.75}tsudzuku hatenai michi wo
+Dialogue: 0,0:24:06.72,0:24:10.83,ED1_romaji,,0,0,0,,{\blur3.75}ai mo kakou mo furimukazu
+Dialogue: 0,0:24:10.83,0:24:11.82,ED1_romaji,,0,0,0,,{\blur3.75}yukeru
+Dialogue: 0,0:24:11.82,0:24:14.83,ED1_romaji,,0,0,0,,{\blur3.75}anata kagayaiteiru
+Dialogue: 0,0:24:14.83,0:24:15.84,ED1_romaji,,0,0,0,,{\blur3.75}Rage your dream
+Dialogue: 0,0:24:15.84,0:24:18.72,ED1_romaji,,0,0,0,,{\blur3.75}ima wo ikiteiru
