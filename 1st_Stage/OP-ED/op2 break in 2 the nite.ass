@@ -21,14 +21,12 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][20][BDRIP][960x720][X264-10bit_AAC][30888311].mp4
-Video File: ../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][20][BDRIP][960x720][X264-10bit_AAC][30888311].mp4
+Audio File: ../../../../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][20][BDRIP][960x720][X264-10bit_AAC][30888311].mp4
+Video File: ../../../../[1998-04-18] 頭文字〈イニシャル〉D First Stage/[异域-11番小队][头文字D 第一部][1-26][BDRIP][960x720][X264-10bit_AAC]/[YYDM-11FANS][Initial D First_Stage][20][BDRIP][960x720][X264-10bit_AAC][30888311].mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 12
-Active Line: 20
-Video Position: 1940
+Video Position: 553
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,6 +35,7 @@ Style: OP2_romaji,Segoe Print,44,&H80000000,&H000000FF,&H00FFFFFF,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.56,0:00:17.46,OP2_romaji,,0,0,0,,{\blur3.5}Get ready yo! Now we blow up the horn
 Dialogue: 0,0:00:29.68,0:00:31.61,OP2_romaji,,0,0,0,,{\blur3.5}kogoeta machi ni
 Dialogue: 0,0:00:31.62,0:00:33.35,OP2_romaji,,0,0,0,,{\blur3.5}giniro shita kemuri
 Dialogue: 0,0:00:33.35,0:00:37.05,OP2_romaji,,0,0,0,,{\blur3.5}{\t(818,851,\blur3.5\3c&H00FF00&)}{\t(1518,1518,\blur3.5\3c&HFFFFFF&)}{\t(3520,3520,\blur3.5\3c&H00FF00&)}misugita yume no daishou
@@ -56,22 +55,23 @@ Dialogue: 0,0:01:15.86,0:01:19.54,OP2_romaji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\
 Dialogue: 0,0:01:19.54,0:01:23.23,OP2_romaji,,0,0,0,,{\blur3.5}subete wo suttee anata wo
 Dialogue: 0,0:01:23.23,0:01:26.89,OP2_romaji,,0,0,0,,{\blur3.5}ai suru koto sae dekitara
 Dialogue: 0,0:01:26.89,0:01:31.13,OP2_romaji,,0,0,0,,{\blur3.5}kitto sunao ni naresou
+Dialogue: 0,0:00:13.56,0:00:17.46,OP2_kanji,,0,0,0,,{\blur3.5}Get ready yo! Now we blow up the horn
 Dialogue: 0,0:00:29.68,0:00:31.61,OP2_kanji,,0,0,0,,{\blur3.5}凍えた街に
 Dialogue: 0,0:00:31.62,0:00:33.35,OP2_kanji,,0,0,0,,{\blur3.5}銀色した煙
 Dialogue: 0,0:00:33.35,0:00:37.05,OP2_kanji,,0,0,0,,{\blur3.5}{\t(818,851,\blur3.5\3c&H00FF00&)}{\t(1518,1518,\blur3.5\3c&HFFFFFF&)}{\t(3520,3520,\blur3.5\3c&H00FF00&)}見過ぎた夢の代償
-Dialogue: 0,0:00:37.05,0:00:38.88,OP2_kanji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(818,821,\blur3.5\3c&HFFFFFF&)}凍えた体 
+Dialogue: 0,0:00:37.05,0:00:38.88,OP2_kanji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(818,821,\blur3.5\3c&HFFFFFF&)}凍えた体
 Dialogue: 0,0:00:38.89,0:00:40.78,OP2_kanji,,0,0,0,,{\blur3.5}振り切れない想い
 Dialogue: 0,0:00:40.78,0:00:44.45,OP2_kanji,,0,0,0,,{\blur3.5}アクセル踏んで誤魔化す
 Dialogue: 0,0:00:44.45,0:00:47.73,OP2_kanji,,0,0,0,,{\blur3.5}夜に壊れたまま
 Dialogue: 0,0:00:47.74,0:00:51.81,OP2_kanji,,0,0,0,,{\blur3.5}視線強くトガらせて
 Dialogue: 0,0:00:51.81,0:00:55.22,OP2_kanji,,0,0,0,,{\blur3.5}誰のきまぐれから
-Dialogue: 0,0:00:55.23,0:00:59.20,OP2_kanji,,0,0,0,,{\blur3.5}世界さえも終わりそうで 
+Dialogue: 0,0:00:55.23,0:00:59.20,OP2_kanji,,0,0,0,,{\blur3.5}世界さえも終わりそうで
 Dialogue: 0,0:00:59.20,0:01:01.15,OP2_kanji,,0,0,0,,{\blur3.5}{\t(426,426,\blur3.5\3c&H00FF00&)}{\t(527,527,\blur3.5\3c&HFFFFFF&)}{\t(660,660,\blur3.5\3c&H00FF00&)}{\t(827,827,\blur3.5\3c&HFFFFFF&)}{\t(1227,1227,\blur3.5\3c&H00FF00&)}{\t(1594,1594,\blur3.5\3c&HFFFFFF&)}“BREAK IN2 THE NITE” it's the time
 Dialogue: 0,0:01:01.15,0:01:04.73,OP2_kanji,,0,0,0,,{\blur3.5}怯えた目をしてlost in the night
 Dialogue: 0,0:01:04.73,0:01:08.39,OP2_kanji,,0,0,0,,{\blur3.5}堕ちてく夢に抱かれる
 Dialogue: 0,0:01:08.39,0:01:12.15,OP2_kanji,,0,0,0,,{\blur3.5}孤独が怖くてmissin' my heart
-Dialogue: 0,0:01:12.15,0:01:15.86,OP2_kanji,,0,0,0,,{\blur3.5}{\t(2558,2558,\blur3.5\3c&H00FF00&)}自分さえも傷つけて 
+Dialogue: 0,0:01:12.15,0:01:15.86,OP2_kanji,,0,0,0,,{\blur3.5}{\t(2558,2558,\blur3.5\3c&H00FF00&)}自分さえも傷つけて
 Dialogue: 0,0:01:15.86,0:01:19.54,OP2_kanji,,0,0,0,,{\blur3.5}{\t(0,1,\blur3.5\3c&H00FF00&)}{\t(183,183,\blur3.5\3c&HFFFFFF&)}倒れる位にLove me so much
-Dialogue: 0,0:01:19.54,0:01:23.23,OP2_kanji,,0,0,0,,{\blur3.5}全てを捨ててあなたを 
+Dialogue: 0,0:01:19.54,0:01:23.23,OP2_kanji,,0,0,0,,{\blur3.5}全てを捨ててあなたを
 Dialogue: 0,0:01:23.23,0:01:26.89,OP2_kanji,,0,0,0,,{\blur3.5}愛する事さえできたら
-Dialogue: 0,0:01:26.89,0:01:31.13,OP2_kanji,,0,0,0,,{\blur3.5}きっと素直になれそう 
+Dialogue: 0,0:01:26.89,0:01:31.13,OP2_kanji,,0,0,0,,{\blur3.5}きっと素直になれそう
